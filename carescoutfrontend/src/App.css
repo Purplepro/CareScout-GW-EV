@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+
+.form-container {
+  background-color: whitesmoke;
+  border: 2px solid gray;
+  height: 50vh;
+  width: 30vw;
+  margin: 30vh auto;
+  border-radius: 1rem;
+}
+
+.search-field-container {
+  margin: 10vh auto;
+}
+
+.input {
+  outline: none;
+  border: none;
+  height: 5vh;
+  width: 15vw;
+  margin: 10px;
+  font-size: larger;
+}
+
+ #submit-button {
+  height: 5vh;
+  width: 10vw;
+  font-size: larger;
+}
+
+

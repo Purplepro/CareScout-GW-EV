@@ -1,0 +1,3323 @@
+[
+    {
+      "FederalProviderNumber": "15009",
+      "ProviderName": "BURNS NURSING HOME, INC.",
+      "ProviderAddress": "701 MONROE STREET NW",
+      "ProviderCity": "RUSSELLVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35653,
+      "ProviderPhoneNumber": 2563324110
+    },
+    {
+      "FederalProviderNumber": "15010",
+      "ProviderName": "COOSA VALLEY HEALTHCARE CENTER",
+      "ProviderAddress": "260 WEST WALNUT STREET",
+      "ProviderCity": "SYLACAUGA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35150,
+      "ProviderPhoneNumber": 2562495604
+    },
+    {
+      "FederalProviderNumber": "15012",
+      "ProviderName": "HIGHLANDS HEALTH AND REHAB",
+      "ProviderAddress": "380 WOODS COVE ROAD",
+      "ProviderCity": "SCOTTSBORO",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35768,
+      "ProviderPhoneNumber": 2562183708
+    },
+    {
+      "FederalProviderNumber": "15014",
+      "ProviderName": "EASTVIEW REHABILITATION & HEALTHCARE CENTER",
+      "ProviderAddress": "7755 FOURTH AVENUE SOUTH",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35206,
+      "ProviderPhoneNumber": 2058330146
+    },
+    {
+      "FederalProviderNumber": "15015",
+      "ProviderName": "PLANTATION MANOR NURSING HOME",
+      "ProviderAddress": "6450 OLD TUSCALOOSA HIGHWAY",
+      "ProviderCity": "MC CALLA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35111,
+      "ProviderPhoneNumber": 2054776161
+    },
+    {
+      "FederalProviderNumber": "15016",
+      "ProviderName": "ATHENS HEALTH AND REHABILITATION LLC",
+      "ProviderAddress": "611 WEST MARKET STREET",
+      "ProviderCity": "ATHENS",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35611,
+      "ProviderPhoneNumber": 2562321620
+    },
+    {
+      "FederalProviderNumber": "15019",
+      "ProviderName": "MERRY WOOD LODGE",
+      "ProviderAddress": "280 MT HEBRON ROAD",
+      "ProviderCity": "ELMORE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36025,
+      "ProviderPhoneNumber": 3345678484
+    },
+    {
+      "FederalProviderNumber": "15023",
+      "ProviderName": "HATLEY HEALTH CARE INC",
+      "ProviderAddress": "300 MEDICAL CENTER DRIVE",
+      "ProviderCity": "CLANTON",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35045,
+      "ProviderPhoneNumber": 2057554960
+    },
+    {
+      "FederalProviderNumber": "15024",
+      "ProviderName": "SENIOR REHAB & RECOVERY AT LIMESTONE HEALTH FACILI",
+      "ProviderAddress": "1600 WEST HOBBS STREET",
+      "ProviderCity": "ATHENS",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35611,
+      "ProviderPhoneNumber": 2562323461
+    },
+    {
+      "FederalProviderNumber": "15027",
+      "ProviderName": "WETUMPKA HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "1825 HOLTVILLE ROAD",
+      "ProviderCity": "WETUMPKA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36092,
+      "ProviderPhoneNumber": 3345675131
+    },
+    {
+      "FederalProviderNumber": "15028",
+      "ProviderName": "KELLER LANDING",
+      "ProviderAddress": "813 KELLER LANE",
+      "ProviderCity": "TUSCUMBIA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35674,
+      "ProviderPhoneNumber": 2563831535
+    },
+    {
+      "FederalProviderNumber": "15031",
+      "ProviderName": "MITCHELL-HOLLINGSWORTH NURSING & REHABILITATION",
+      "ProviderAddress": "805 FLAGG CIRCLE",
+      "ProviderCity": "FLORENCE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35631,
+      "ProviderPhoneNumber": 2567405400
+    },
+    {
+      "FederalProviderNumber": "15032",
+      "ProviderName": "DIVERSICARE OF FOLEY",
+      "ProviderAddress": "1701 NORTH ALSTON STREET",
+      "ProviderCity": "FOLEY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36535,
+      "ProviderPhoneNumber": 2519432781
+    },
+    {
+      "FederalProviderNumber": "15034",
+      "ProviderName": "HUNTER CREEK HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "600 34TH ST",
+      "ProviderCity": "NORTHPORT",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35473,
+      "ProviderPhoneNumber": 2053395900
+    },
+    {
+      "FederalProviderNumber": "15035",
+      "ProviderName": "WEST GATE VILLAGE",
+      "ProviderAddress": "100 PINEVIEW AND THIRD",
+      "ProviderCity": "BREWTON",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36427,
+      "ProviderPhoneNumber": 2518676077
+    },
+    {
+      "FederalProviderNumber": "15037",
+      "ProviderName": "CRIMSON HEALTH AND REHAB, LLC",
+      "ProviderAddress": "3312 WOODLEY ROAD",
+      "ProviderCity": "MONTGOMERY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36116,
+      "ProviderPhoneNumber": 3342882780
+    },
+    {
+      "FederalProviderNumber": "15040",
+      "ProviderName": "DIVERSICARE OF MONTGOMERY",
+      "ProviderAddress": "2020 NORTH COUNTRY CLUB DRIVE",
+      "ProviderCity": "MONTGOMERY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36106,
+      "ProviderPhoneNumber": 3342631643
+    },
+    {
+      "FederalProviderNumber": "15042",
+      "ProviderName": "SUMTER HEALTH AND REHABILITATION, L L C",
+      "ProviderAddress": "1505 EAST 4TH AVENUE",
+      "ProviderCity": "YORK",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36925,
+      "ProviderPhoneNumber": 2053925281
+    },
+    {
+      "FederalProviderNumber": "15044",
+      "ProviderName": "CAREGIVERS OF PLEASANT GROVE, INC",
+      "ProviderAddress": "700 FIRST AVENUE",
+      "ProviderCity": "PLEASANT GROVE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35127,
+      "ProviderPhoneNumber": 2057448120
+    },
+    {
+      "FederalProviderNumber": "15045",
+      "ProviderName": "EAMC LANIER NURSING HOME",
+      "ProviderAddress": "4800 48TH STREET",
+      "ProviderCity": "VALLEY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36854,
+      "ProviderPhoneNumber": 3347561401
+    },
+    {
+      "FederalProviderNumber": "15047",
+      "ProviderName": "NORTHWAY HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "1424 NORTH 25TH STREET",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35234,
+      "ProviderPhoneNumber": 2053285870
+    },
+    {
+      "FederalProviderNumber": "15048",
+      "ProviderName": "CULLMAN HEALTH CARE CENTER",
+      "ProviderAddress": "1607 MAIN AVE NE",
+      "ProviderCity": "CULLMAN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35055,
+      "ProviderPhoneNumber": 2567348745
+    },
+    {
+      "FederalProviderNumber": "15049",
+      "ProviderName": "EASTERN SHORE REHABILITATION AND HEALTH CENTER",
+      "ProviderAddress": "101 VILLA DRIVE",
+      "ProviderCity": "DAPHNE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36526,
+      "ProviderPhoneNumber": 2516214200
+    },
+    {
+      "FederalProviderNumber": "15050",
+      "ProviderName": "OAK TRACE CARE & REHABILITATION CENTER",
+      "ProviderAddress": "325 SELMA ROAD",
+      "ProviderCity": "BESSEMER",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35020,
+      "ProviderPhoneNumber": 2054289383
+    },
+    {
+      "FederalProviderNumber": "15053",
+      "ProviderName": "CLEBURNE COUNTY NURSING HOME",
+      "ProviderAddress": "122 BROCKFORD ROAD",
+      "ProviderCity": "HEFLIN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36264,
+      "ProviderPhoneNumber": 2564632121
+    },
+    {
+      "FederalProviderNumber": "15060",
+      "ProviderName": "TERRACE OAKS CARE & REHABILITATION CENTER",
+      "ProviderAddress": "4201 BESSEMER SUPER HIGHWAY",
+      "ProviderCity": "BESSEMER",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35020,
+      "ProviderPhoneNumber": 2054283249
+    },
+    {
+      "FederalProviderNumber": "15063",
+      "ProviderName": "DIVERSICARE OF BOAZ",
+      "ProviderAddress": "600 CORLEY AVENUE",
+      "ProviderCity": "BOAZ",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35957,
+      "ProviderPhoneNumber": 2565938380
+    },
+    {
+      "FederalProviderNumber": "15065",
+      "ProviderName": "PRATTVILLE HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "601 JASMINE TRAIL",
+      "ProviderCity": "PRATTVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36066,
+      "ProviderPhoneNumber": 3343652241
+    },
+    {
+      "FederalProviderNumber": "15066",
+      "ProviderName": "TERRACE MANOR NURSING & REHABILITATION CENTER, INC",
+      "ProviderAddress": "390 UNDERWOOD ROAD",
+      "ProviderCity": "RUSSELLVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35653,
+      "ProviderPhoneNumber": 2563323826
+    },
+    {
+      "FederalProviderNumber": "15067",
+      "ProviderName": "COTTAGE OF THE SHOALS",
+      "ProviderAddress": "500 JOHN ALDRIDGE DRIVE",
+      "ProviderCity": "TUSCUMBIA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35674,
+      "ProviderPhoneNumber": 2563834541
+    },
+    {
+      "FederalProviderNumber": "15071",
+      "ProviderName": "RUSSELLVILLE HEALTH CARE INC",
+      "ProviderAddress": "705 NORTHEAST GANDY STREET",
+      "ProviderCity": "RUSSELLVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35653,
+      "ProviderPhoneNumber": 2563323773
+    },
+    {
+      "FederalProviderNumber": "15073",
+      "ProviderName": "HANCEVILLE NURSING & REHAB CENTER, INC",
+      "ProviderAddress": "420 MAIN STREET NE",
+      "ProviderCity": "HANCEVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35077,
+      "ProviderPhoneNumber": 2563526481
+    },
+    {
+      "FederalProviderNumber": "15075",
+      "ProviderName": "SUMMERFORD HEALTH AND REHAB, LLC",
+      "ProviderAddress": "4087 HIGHWAY 31 SOUTHWEST",
+      "ProviderCity": "FALKVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35622,
+      "ProviderPhoneNumber": 2567845275
+    },
+    {
+      "FederalProviderNumber": "15076",
+      "ProviderName": "FAIR HAVEN",
+      "ProviderAddress": "1424 MONTCLAIR ROAD",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35210,
+      "ProviderPhoneNumber": 2059564150
+    },
+    {
+      "FederalProviderNumber": "15083",
+      "ProviderName": "ELBA NURSING AND REHABILITATION CENTER, LLC",
+      "ProviderAddress": "987 DRAYTON STREET",
+      "ProviderCity": "ELBA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36323,
+      "ProviderPhoneNumber": 3348972257
+    },
+    {
+      "FederalProviderNumber": "15084",
+      "ProviderName": "PARK PLACE",
+      "ProviderAddress": "100 PARK PLACE",
+      "ProviderCity": "SELMA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36701,
+      "ProviderPhoneNumber": 3348723471
+    },
+    {
+      "FederalProviderNumber": "15089",
+      "ProviderName": "EVERGREEN NURSING HOME",
+      "ProviderAddress": "100 SANDERS DRIVE",
+      "ProviderCity": "EVERGREEN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36401,
+      "ProviderPhoneNumber": 2515783783
+    },
+    {
+      "FederalProviderNumber": "15091",
+      "ProviderName": "NORTH HILL NURSING AND REHABILITATION CTR, LLC",
+      "ProviderAddress": "200 NORTH PINE HILL ROAD",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35217,
+      "ProviderPhoneNumber": 2058492352
+    },
+    {
+      "FederalProviderNumber": "15097",
+      "ProviderName": "SOUTH HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "1220 SOUTH 17TH STREET",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35205,
+      "ProviderPhoneNumber": 2059332180
+    },
+    {
+      "FederalProviderNumber": "15098",
+      "ProviderName": "ALLEN HEALTH AND REHABILITATION",
+      "ProviderAddress": "735 SOUTH WASHINGTON AVENUE",
+      "ProviderCity": "MOBILE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36603,
+      "ProviderPhoneNumber": 2514332642
+    },
+    {
+      "FederalProviderNumber": "15100",
+      "ProviderName": "CROWNE HEALTH CARE OF MOBILE",
+      "ProviderAddress": "954 NAVCO ROAD",
+      "ProviderCity": "MOBILE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36605,
+      "ProviderPhoneNumber": 2514738684
+    },
+    {
+      "FederalProviderNumber": "15101",
+      "ProviderName": "ALTOONA  HEALTH & REHAB",
+      "ProviderAddress": "6532 WALNUT GROVE ROAD",
+      "ProviderCity": "ALTOONA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35952,
+      "ProviderPhoneNumber": 2055896394
+    },
+    {
+      "FederalProviderNumber": "15103",
+      "ProviderName": "ASHLAND PLACE HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "148 TUSCALOOSA ST",
+      "ProviderCity": "MOBILE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36607,
+      "ProviderPhoneNumber": 2514715431
+    },
+    {
+      "FederalProviderNumber": "15104",
+      "ProviderName": "SOUTHLAND NURSING HOME",
+      "ProviderAddress": "500 SHIVERS TERRACE",
+      "ProviderCity": "MARION",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36756,
+      "ProviderPhoneNumber": 3346836141
+    },
+    {
+      "FederalProviderNumber": "15109",
+      "ProviderName": "CIVIC CENTER HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "1201 22ND STREET NORTH",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35234,
+      "ProviderPhoneNumber": 2052515271
+    },
+    {
+      "FederalProviderNumber": "15111",
+      "ProviderName": "DIVERSICARE OF BIG SPRINGS",
+      "ProviderAddress": "500 ST. CLAIR AVENUE SOUTHWEST",
+      "ProviderCity": "HUNTSVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35801,
+      "ProviderPhoneNumber": 2565395111
+    },
+    {
+      "FederalProviderNumber": "15112",
+      "ProviderName": "MAGNOLIA HAVEN HEALTH AND REHABILITATION CENTER",
+      "ProviderAddress": "603 WRIGHT STREET",
+      "ProviderCity": "TUSKEGEE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36083,
+      "ProviderPhoneNumber": 3347274960
+    },
+    {
+      "FederalProviderNumber": "15113",
+      "ProviderName": "RIVER CITY CENTER",
+      "ProviderAddress": "1350 FOURTEENTH AVENUE SOUTHEAST",
+      "ProviderCity": "DECATUR",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35601,
+      "ProviderPhoneNumber": 2563556911
+    },
+    {
+      "FederalProviderNumber": "15114",
+      "ProviderName": "SHADESCREST HEALTH CARE CENTER",
+      "ProviderAddress": "331 WEST 25TH STREET",
+      "ProviderCity": "JASPER",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35502,
+      "ProviderPhoneNumber": 2053849086
+    },
+    {
+      "FederalProviderNumber": "15115",
+      "ProviderName": "CORDOVA HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "70 HIGHLAND STREET WEST",
+      "ProviderCity": "CORDOVA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35550,
+      "ProviderPhoneNumber": 2054839282
+    },
+    {
+      "FederalProviderNumber": "15116",
+      "ProviderName": "SIGNATURE HEALTHCARE OF WHITESBURG GARDENS",
+      "ProviderAddress": "105 TEAKWOOD DRIVE SW",
+      "ProviderCity": "HUNTSVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35801,
+      "ProviderPhoneNumber": 2568815000
+    },
+    {
+      "FederalProviderNumber": "15117",
+      "ProviderName": "OAK KNOLL HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "824 SIXTH AVENUE WEST",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35204,
+      "ProviderPhoneNumber": 2057872619
+    },
+    {
+      "FederalProviderNumber": "15119",
+      "ProviderName": "SELMA HEALTH AND REHAB, LLC",
+      "ProviderAddress": "11 BELL ROAD",
+      "ProviderCity": "SELMA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36701,
+      "ProviderPhoneNumber": 3348747425
+    },
+    {
+      "FederalProviderNumber": "15120",
+      "ProviderName": "NHC HEALTHCARE, ANNISTON",
+      "ProviderAddress": "2300 COLEMAN RD",
+      "ProviderCity": "ANNISTON",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36207,
+      "ProviderPhoneNumber": 2568315730
+    },
+    {
+      "FederalProviderNumber": "15121",
+      "ProviderName": "CROWNE HEALTH CARE OF CITRONELLE",
+      "ProviderAddress": "19225 NORTH 4TH STREET",
+      "ProviderCity": "CITRONELLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36522,
+      "ProviderPhoneNumber": 2518665509
+    },
+    {
+      "FederalProviderNumber": "15123",
+      "ProviderName": "WASHINGTON COUNTY NURSING HOME",
+      "ProviderAddress": "14600 ST STEPHENS AVENUE",
+      "ProviderCity": "CHATOM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36518,
+      "ProviderPhoneNumber": 2518476412
+    },
+    {
+      "FederalProviderNumber": "15124",
+      "ProviderName": "CLAY COUNTY NURSING HOME",
+      "ProviderAddress": "83825 HIGHWAY 9",
+      "ProviderCity": "ASHLAND",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36251,
+      "ProviderPhoneNumber": 2563542131
+    },
+    {
+      "FederalProviderNumber": "15126",
+      "ProviderName": "TRAYLOR RETIREMENT COMMUNITY",
+      "ProviderAddress": "1235 YANCEY STREET",
+      "ProviderCity": "ROANOKE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36274,
+      "ProviderPhoneNumber": 3348633500
+    },
+    {
+      "FederalProviderNumber": "15127",
+      "ProviderName": "BROOKSHIRE HEALTHCARE CENTER",
+      "ProviderAddress": "4320 JUDITH LANE",
+      "ProviderCity": "HUNTSVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35805,
+      "ProviderPhoneNumber": 2568371730
+    },
+    {
+      "FederalProviderNumber": "15128",
+      "ProviderName": "NHC HEALTHCARE, MOULTON",
+      "ProviderAddress": "300 HOSPITAL STREET",
+      "ProviderCity": "MOULTON",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35650,
+      "ProviderPhoneNumber": 2569741146
+    },
+    {
+      "FederalProviderNumber": "15129",
+      "ProviderName": "ATMORE NURSING CENTER",
+      "ProviderAddress": "715 EAST LAUREL STREET",
+      "ProviderCity": "ATMORE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36502,
+      "ProviderPhoneNumber": 2513689121
+    },
+    {
+      "FederalProviderNumber": "15132",
+      "ProviderName": "DIVERSICARE OF OXFORD",
+      "ProviderAddress": "1130 SOUTH HALE STREET",
+      "ProviderCity": "OXFORD",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36203,
+      "ProviderPhoneNumber": 2568310481
+    },
+    {
+      "FederalProviderNumber": "15133",
+      "ProviderName": "MAGNOLIA RIDGE",
+      "ProviderAddress": "420 DEAN DRIVE",
+      "ProviderCity": "GARDENDALE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35071,
+      "ProviderPhoneNumber": 2056318709
+    },
+    {
+      "FederalProviderNumber": "15134",
+      "ProviderName": "BIRMINGHAM NURSING AND REHABILITATION CENTER EAST",
+      "ProviderAddress": "733 MARY VANN LANE",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35215,
+      "ProviderPhoneNumber": 2058541361
+    },
+    {
+      "FederalProviderNumber": "15135",
+      "ProviderName": "JOHN KNOX MANOR INC  I I",
+      "ProviderAddress": "4401 NARROW LANE ROAD",
+      "ProviderCity": "MONTGOMERY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36116,
+      "ProviderPhoneNumber": 3342816336
+    },
+    {
+      "FederalProviderNumber": "15136",
+      "ProviderName": "FALKVILLE HEALTH CARE CENTER",
+      "ProviderAddress": "10 WEST 3RD STREET",
+      "ProviderCity": "FALKVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35622,
+      "ProviderPhoneNumber": 2567845291
+    },
+    {
+      "FederalProviderNumber": "15137",
+      "ProviderName": "ALICEVILLE MANOR NURSING HOME",
+      "ProviderAddress": "703 17TH STREET NORTHWEST",
+      "ProviderCity": "ALICEVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35442,
+      "ProviderPhoneNumber": 2053736307
+    },
+    {
+      "FederalProviderNumber": "15138",
+      "ProviderName": "HENDRIX HEALTH AND REHABILITATION",
+      "ProviderAddress": "1000 HIGHWAY 33",
+      "ProviderCity": "DOUBLE SPRINGS",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35553,
+      "ProviderPhoneNumber": 2054892136
+    },
+    {
+      "FederalProviderNumber": "15139",
+      "ProviderName": "TALLASSEE HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "2639 GILMER AVENUE",
+      "ProviderCity": "TALLASSEE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36078,
+      "ProviderPhoneNumber": 3342833975
+    },
+    {
+      "FederalProviderNumber": "15141",
+      "ProviderName": "ARBOR WOODS HEALTH AND REHAB",
+      "ProviderAddress": "515 2ND AVENUE NORTHWEST",
+      "ProviderCity": "REFORM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35481,
+      "ProviderPhoneNumber": 2053756379
+    },
+    {
+      "FederalProviderNumber": "15142",
+      "ProviderName": "LINEVILLE HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "88073 HIGHWAY 9",
+      "ProviderCity": "LINEVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36266,
+      "ProviderPhoneNumber": 2563962104
+    },
+    {
+      "FederalProviderNumber": "15143",
+      "ProviderName": "FOREST MANOR HEALTH AND REHAB",
+      "ProviderAddress": "2215 32ND STREET",
+      "ProviderCity": "NORTHPORT",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35476,
+      "ProviderPhoneNumber": 2053395400
+    },
+    {
+      "FederalProviderNumber": "15144",
+      "ProviderName": "AHAVA HEALTHCARE OF ALABASTER",
+      "ProviderAddress": "850 9TH STREET, NORTHWEST",
+      "ProviderCity": "ALABASTER",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35007,
+      "ProviderPhoneNumber": 2056633859
+    },
+    {
+      "FederalProviderNumber": "15145",
+      "ProviderName": "DIVERSICARE OF RIVERCHASE",
+      "ProviderAddress": "2500 RIVERHAVEN DRIVE",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35244,
+      "ProviderPhoneNumber": 2059870901
+    },
+    {
+      "FederalProviderNumber": "15147",
+      "ProviderName": "GLENWOOD CENTER",
+      "ProviderAddress": "211 ANA DRIVE",
+      "ProviderCity": "FLORENCE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35630,
+      "ProviderPhoneNumber": 2567668963
+    },
+    {
+      "FederalProviderNumber": "15148",
+      "ProviderName": "DIVERSICARE OF ARAB",
+      "ProviderAddress": "235 THIRD STREET SE",
+      "ProviderCity": "ARAB",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35016,
+      "ProviderPhoneNumber": 2565863111
+    },
+    {
+      "FederalProviderNumber": "15149",
+      "ProviderName": "SUNSET MANOR",
+      "ProviderAddress": "251 SUNSET PLACE",
+      "ProviderCity": "GUIN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35563,
+      "ProviderPhoneNumber": 2054683331
+    },
+    {
+      "FederalProviderNumber": "15150",
+      "ProviderName": "WIREGRASS REHABILITATION CENTER & NURSING HOME",
+      "ProviderAddress": "1200 MAPLE AVENUE WEST",
+      "ProviderCity": "GENEVA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36340,
+      "ProviderPhoneNumber": 3346843655
+    },
+    {
+      "FederalProviderNumber": "15151",
+      "ProviderName": "AZALEA HEALTH AND REHAB LLC",
+      "ProviderAddress": "1758 SPRINGHILL AVE",
+      "ProviderCity": "MOBILE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36607,
+      "ProviderPhoneNumber": 2514790551
+    },
+    {
+      "FederalProviderNumber": "15152",
+      "ProviderName": "EXTENDICARE HEALTH CENTER",
+      "ProviderAddress": "950 SOUTH ST. ANDREWS STREET",
+      "ProviderCity": "DOTHAN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36302,
+      "ProviderPhoneNumber": 3347931177
+    },
+    {
+      "FederalProviderNumber": "15153",
+      "ProviderName": "ARLINGTON REHABILITATION & HEALTHCARE CENTER",
+      "ProviderAddress": "1020 TUSCALOOSA AVENUE, SW",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35211,
+      "ProviderPhoneNumber": 2057886330
+    },
+    {
+      "FederalProviderNumber": "15154",
+      "ProviderName": "FAYETTE MEDICAL CENTER LONG TERM CARE UNIT",
+      "ProviderAddress": "1653 TEMPLE AVENUE NORTH",
+      "ProviderCity": "FAYETTE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35555,
+      "ProviderPhoneNumber": 2059325966
+    },
+    {
+      "FederalProviderNumber": "15155",
+      "ProviderName": "RIDGEVIEW HEALTH SERVICES, INC",
+      "ProviderAddress": "907 11TH STREET, NE",
+      "ProviderCity": "JASPER",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35504,
+      "ProviderPhoneNumber": 2052219111
+    },
+    {
+      "FederalProviderNumber": "15156",
+      "ProviderName": "CROWNE HEALTH CARE OF FT PAYNE",
+      "ProviderAddress": "403 13TH STREET NORTHWEST",
+      "ProviderCity": "FORT PAYNE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35967,
+      "ProviderPhoneNumber": 2568455990
+    },
+    {
+      "FederalProviderNumber": "15157",
+      "ProviderName": "HALEYVILLE HEALTH CARE CENTER",
+      "ProviderAddress": "2201 11TH AVENUE",
+      "ProviderCity": "HALEYVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35565,
+      "ProviderPhoneNumber": 2054869478
+    },
+    {
+      "FederalProviderNumber": "15158",
+      "ProviderName": "PERRY COUNTY NURSING HOME",
+      "ProviderAddress": "505 EAST LAFAYETTE STREET",
+      "ProviderCity": "MARION",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36756,
+      "ProviderPhoneNumber": 3346839696
+    },
+    {
+      "FederalProviderNumber": "15159",
+      "ProviderName": "DIVERSICARE OF ONEONTA",
+      "ProviderAddress": "215 VALLEY ROAD",
+      "ProviderCity": "ONEONTA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35121,
+      "ProviderPhoneNumber": 2052742365
+    },
+    {
+      "FederalProviderNumber": "15160",
+      "ProviderName": "SYLACAUGA HEALTH AND REHAB SERVICES",
+      "ProviderAddress": "1007 W FORT WILLIAMS ST",
+      "ProviderCity": "SYLACAUGA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35150,
+      "ProviderPhoneNumber": 2562457402
+    },
+    {
+      "FederalProviderNumber": "15162",
+      "ProviderName": "TALLADEGA HEALTHCARE CENTER, INC",
+      "ProviderAddress": "616 CHAFFEE STREET",
+      "ProviderCity": "TALLADEGA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35160,
+      "ProviderPhoneNumber": 2563624197
+    },
+    {
+      "FederalProviderNumber": "15163",
+      "ProviderName": "ALBERTVILLE NURSING HOME",
+      "ProviderAddress": "750 ALABAMA HIGHWAY 75 NORTH",
+      "ProviderCity": "ALBERTVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35950,
+      "ProviderPhoneNumber": 2568781398
+    },
+    {
+      "FederalProviderNumber": "15164",
+      "ProviderName": "CHOCTAW HEALTH AND REHAB",
+      "ProviderAddress": "1406 EAST PUSHMATAHA STREET",
+      "ProviderCity": "BUTLER",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36904,
+      "ProviderPhoneNumber": 2054595506
+    },
+    {
+      "FederalProviderNumber": "15166",
+      "ProviderName": "DADEVILLE HEALTHCARE CENTER",
+      "ProviderAddress": "351 NORTH EAST STREET",
+      "ProviderCity": "DADEVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36853,
+      "ProviderPhoneNumber": 2568259244
+    },
+    {
+      "FederalProviderNumber": "15167",
+      "ProviderName": "MARION REGIONAL NURSING HOME",
+      "ProviderAddress": "184 SASSER DRIVE",
+      "ProviderCity": "HAMILTON",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35570,
+      "ProviderPhoneNumber": 2059216340
+    },
+    {
+      "FederalProviderNumber": "15168",
+      "ProviderName": "LITTLE SISTERS OF THE POOR SACRED HEART RESIDENCE",
+      "ProviderAddress": "1655 MCGILL AVENUE",
+      "ProviderCity": "MOBILE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36604,
+      "ProviderPhoneNumber": 2514766335
+    },
+    {
+      "FederalProviderNumber": "15169",
+      "ProviderName": "FLORENCE NURSING AND REHABILITATION CTR,  LLC",
+      "ProviderAddress": "2107 CLOYD BLVD",
+      "ProviderCity": "FLORENCE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35630,
+      "ProviderPhoneNumber": 2567665771
+    },
+    {
+      "FederalProviderNumber": "15171",
+      "ProviderName": "SOUTHERN SPRINGS HEALTHCARE FACILITY",
+      "ProviderAddress": "745 SOUTHERN SPRINGS ROAD",
+      "ProviderCity": "UNION SPRINGS",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36089,
+      "ProviderPhoneNumber": 3347385590
+    },
+    {
+      "FederalProviderNumber": "15174",
+      "ProviderName": "COOSA VALLEY HEALTH AND REHAB",
+      "ProviderAddress": "513 PINEVIEW AVENUE",
+      "ProviderCity": "GLENCOE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35905,
+      "ProviderPhoneNumber": 2564925350
+    },
+    {
+      "FederalProviderNumber": "15175",
+      "ProviderName": "WESLEY PLACE ON HONEYSUCKLE",
+      "ProviderAddress": "718 HONEYSUCKLE ROAD",
+      "ProviderCity": "DOTHAN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36305,
+      "ProviderPhoneNumber": 3347920921
+    },
+    {
+      "FederalProviderNumber": "15176",
+      "ProviderName": "CROSSVILLE HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "8922 HIGHWAY 227",
+      "ProviderCity": "CROSSVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35962,
+      "ProviderPhoneNumber": 2565287844
+    },
+    {
+      "FederalProviderNumber": "15177",
+      "ProviderName": "WOODHAVEN MANOR NURSING HOME",
+      "ProviderAddress": "105 WEST WINDSOR ST",
+      "ProviderCity": "DEMOPOLIS",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36732,
+      "ProviderPhoneNumber": 3342892741
+    },
+    {
+      "FederalProviderNumber": "15178",
+      "ProviderName": "GREENE COUNTY NURSING HOME",
+      "ProviderAddress": "509 WILSON AVE",
+      "ProviderCity": "EUTAW",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35462,
+      "ProviderPhoneNumber": 2053724545
+    },
+    {
+      "FederalProviderNumber": "15179",
+      "ProviderName": "PARKWOOD HEALTH CARE FACILITY",
+      "ProviderAddress": "3301 STADIUM DRIVE",
+      "ProviderCity": "PHENIX CITY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36867,
+      "ProviderPhoneNumber": 3342970237
+    },
+    {
+      "FederalProviderNumber": "15180",
+      "ProviderName": "GADSDEN HEALTH AND REHAB CENTER",
+      "ProviderAddress": "1945 DAVIS DRIVE",
+      "ProviderCity": "GADSDEN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35904,
+      "ProviderPhoneNumber": 2565474938
+    },
+    {
+      "FederalProviderNumber": "15182",
+      "ProviderName": "GEORGIANA HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "206 PALMER AVENUE",
+      "ProviderCity": "GEORGIANA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36033,
+      "ProviderPhoneNumber": 3343762267
+    },
+    {
+      "FederalProviderNumber": "15183",
+      "ProviderName": "NORTH MOBILE NURSING AND REHABILITATION CTR",
+      "ProviderAddress": "4525 ST STEPHENS ROAD",
+      "ProviderCity": "EIGHT MILE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36613,
+      "ProviderPhoneNumber": 2514520996
+    },
+    {
+      "FederalProviderNumber": "15184",
+      "ProviderName": "CLOVERDALE REHABILITATION AND NURSING CENTER",
+      "ProviderAddress": "412 CLOVERDALE ROAD",
+      "ProviderCity": "SCOTTSBORO",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35768,
+      "ProviderPhoneNumber": 2562591505
+    },
+    {
+      "FederalProviderNumber": "15186",
+      "ProviderName": "GLEN HAVEN HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "2201 32ND STREET",
+      "ProviderCity": "NORTHPORT",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35476,
+      "ProviderPhoneNumber": 2053395700
+    },
+    {
+      "FederalProviderNumber": "15187",
+      "ProviderName": "MOUNDVILLE HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "THIRD AVENUE",
+      "ProviderCity": "MOUNDVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35474,
+      "ProviderPhoneNumber": 2053712252
+    },
+    {
+      "FederalProviderNumber": "15188",
+      "ProviderName": "JACKSON HEALTH CARE FACILITY",
+      "ProviderAddress": "2616 NORTH COLLEGE AVENUE",
+      "ProviderCity": "JACKSON",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36545,
+      "ProviderPhoneNumber": 2512462476
+    },
+    {
+      "FederalProviderNumber": "15189",
+      "ProviderName": "DIVERSICARE OF PELL CITY",
+      "ProviderAddress": "510 WOLF CREEK ROAD, NORTH",
+      "ProviderCity": "PELL CITY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35125,
+      "ProviderPhoneNumber": 2053383329
+    },
+    {
+      "FederalProviderNumber": "15191",
+      "ProviderName": "BROWN NURSING HOME",
+      "ProviderAddress": "2334 WASHINGTON STREET",
+      "ProviderCity": "ALEXANDER CITY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35010,
+      "ProviderPhoneNumber": 2563299061
+    },
+    {
+      "FederalProviderNumber": "15192",
+      "ProviderName": "ARBOR SPRINGS HEALTH AND REHAB CENTER, LTD",
+      "ProviderAddress": "1910 PEPPERELL PKWY",
+      "ProviderCity": "OPELIKA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36801,
+      "ProviderPhoneNumber": 3347491471
+    },
+    {
+      "FederalProviderNumber": "15193",
+      "ProviderName": "CROWNE HEALTH CARE OF GREENVILLE",
+      "ProviderAddress": "408 COUNTRY CLUB DRIVE",
+      "ProviderCity": "GREENVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36037,
+      "ProviderPhoneNumber": 3343822693
+    },
+    {
+      "FederalProviderNumber": "15194",
+      "ProviderName": "PIEDMONT HEALTH CARE CENTER",
+      "ProviderAddress": "30 ROUNDTREE DRIVE",
+      "ProviderCity": "PIEDMONT",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36272,
+      "ProviderPhoneNumber": 2564478258
+    },
+    {
+      "FederalProviderNumber": "15195",
+      "ProviderName": "VILLAGE AT COOK SPRINGS SKILLED NURSING FACILITY",
+      "ProviderAddress": "415 COOK SPRINGS",
+      "ProviderCity": "PELL CITY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35125,
+      "ProviderPhoneNumber": 2053382221
+    },
+    {
+      "FederalProviderNumber": "15196",
+      "ProviderName": "DIVERSICARE OF LANETT",
+      "ProviderAddress": "702 SOUTH 13TH STREET",
+      "ProviderCity": "LANETT",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36863,
+      "ProviderPhoneNumber": 3346441111
+    },
+    {
+      "FederalProviderNumber": "15197",
+      "ProviderName": "LAFAYETTE EXTENDED CARE",
+      "ProviderAddress": "805 HOSPITAL STREET SOUTHWEST",
+      "ProviderCity": "LAFAYETTE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36862,
+      "ProviderPhoneNumber": 3348648854
+    },
+    {
+      "FederalProviderNumber": "15199",
+      "ProviderName": "CROWNE HEALTH CARE OF EUFAULA",
+      "ProviderAddress": "430 RIVERS AVENUE",
+      "ProviderCity": "EUFAULA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36027,
+      "ProviderPhoneNumber": 3346876627
+    },
+    {
+      "FederalProviderNumber": "15200",
+      "ProviderName": "CHEROKEE COUNTY HEALTH AND REHABILITATION CENTER",
+      "ProviderAddress": "877 CEDAR BLUFF ROAD",
+      "ProviderCity": "CENTRE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35960,
+      "ProviderPhoneNumber": 2569275778
+    },
+    {
+      "FederalProviderNumber": "15201",
+      "ProviderName": "GENERATIONS OF RED BAY, LLC",
+      "ProviderAddress": "106 TENTH AVENUE NORTHWEST",
+      "ProviderCity": "RED BAY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35582,
+      "ProviderPhoneNumber": 2563564982
+    },
+    {
+      "FederalProviderNumber": "15202",
+      "ProviderName": "MCGUFFEY HEALTH & REHABILITATION CENTER",
+      "ProviderAddress": "2301 RAINBOW DRIVE",
+      "ProviderCity": "GADSDEN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35999,
+      "ProviderPhoneNumber": 2565433467
+    },
+    {
+      "FederalProviderNumber": "15203",
+      "ProviderName": "ATTALLA HEALTH AND REHAB",
+      "ProviderAddress": "915 STEWART AVENUE SOUTHEAST",
+      "ProviderCity": "ATTALLA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35954,
+      "ProviderPhoneNumber": 2565387852
+    },
+    {
+      "FederalProviderNumber": "15204",
+      "ProviderName": "GOODWATER HEALTHCARE CENTER",
+      "ProviderAddress": "16 JONES HILL ROAD",
+      "ProviderCity": "GOODWATER",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35072,
+      "ProviderPhoneNumber": 2568396711
+    },
+    {
+      "FederalProviderNumber": "15206",
+      "ProviderName": "DECATUR HEALTH & REHAB CENTER",
+      "ProviderAddress": "2326 MORGAN AVENUE SOUTHWEST",
+      "ProviderCity": "DECATUR",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35603,
+      "ProviderPhoneNumber": 2563405765
+    },
+    {
+      "FederalProviderNumber": "15207",
+      "ProviderName": "COLLINSVILLE HEALTHCARE & REHAB",
+      "ProviderAddress": "685 NORTH VALLEY AVE",
+      "ProviderCity": "COLLINSVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35961,
+      "ProviderPhoneNumber": 2565242117
+    },
+    {
+      "FederalProviderNumber": "15208",
+      "ProviderName": "OZARK HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "312 BRYAN DRIVE",
+      "ProviderCity": "OZARK",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36360,
+      "ProviderPhoneNumber": 3347742561
+    },
+    {
+      "FederalProviderNumber": "15209",
+      "ProviderName": "DIVERSICARE OF BESSEMER",
+      "ProviderAddress": "820 GOLF COURSE ROAD",
+      "ProviderCity": "BESSEMER",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35020,
+      "ProviderPhoneNumber": 2054255241
+    },
+    {
+      "FederalProviderNumber": "15210",
+      "ProviderName": "OPP HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "115 PAULK AVENUE",
+      "ProviderCity": "OPP",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36467,
+      "ProviderPhoneNumber": 3344934558
+    },
+    {
+      "FederalProviderNumber": "15211",
+      "ProviderName": "TWIN OAKS REHABILITATION AND HEALTHCARE CENTER",
+      "ProviderAddress": "857 CRAWFORD LANE",
+      "ProviderCity": "MOBILE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36617,
+      "ProviderPhoneNumber": 2514763420
+    },
+    {
+      "FederalProviderNumber": "15212",
+      "ProviderName": "SELF SKILLED NURSING & REHAB",
+      "ProviderAddress": "131 EAST CREST ROAD",
+      "ProviderCity": "HUEYTOWN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35023,
+      "ProviderPhoneNumber": 2054912411
+    },
+    {
+      "FederalProviderNumber": "15213",
+      "ProviderName": "TROY HEALTH & REHABILITATION CENTER",
+      "ProviderAddress": "515 ELBA HIGHWAY",
+      "ProviderCity": "TROY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36079,
+      "ProviderPhoneNumber": 3345660880
+    },
+    {
+      "FederalProviderNumber": "15214",
+      "ProviderName": "MADISON MANOR NURSING HOME",
+      "ProviderAddress": "3891 SULLIVAN ST",
+      "ProviderCity": "MADISON",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35758,
+      "ProviderPhoneNumber": 2567729243
+    },
+    {
+      "FederalProviderNumber": "15215",
+      "ProviderName": "BIBB MEDICAL CENTER NURSING HOME",
+      "ProviderAddress": "208 PIERSON AVE",
+      "ProviderCity": "CENTREVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35042,
+      "ProviderPhoneNumber": 2059263308
+    },
+    {
+      "FederalProviderNumber": "15216",
+      "ProviderName": "OAKVIEW MANOR HEALTH CARE CENTER",
+      "ProviderAddress": "929 MIXON SCHOOL ROAD",
+      "ProviderCity": "OZARK",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36360,
+      "ProviderPhoneNumber": 3347742631
+    },
+    {
+      "FederalProviderNumber": "15217",
+      "ProviderName": "BIRMINGHAM NURSING AND REHABILITATION CTR LLC",
+      "ProviderAddress": "1000 DUGAN AVENUE",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35214,
+      "ProviderPhoneNumber": 2057988780
+    },
+    {
+      "FederalProviderNumber": "15220",
+      "ProviderName": "CROWNE HEALTH CARE OF THOMASVILLE",
+      "ProviderAddress": "1425 MOSLEY DRIVE",
+      "ProviderCity": "THOMASVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36784,
+      "ProviderPhoneNumber": 3346365614
+    },
+    {
+      "FederalProviderNumber": "15221",
+      "ProviderName": "CHAPMAN HEALTHCARE CENTER, INC",
+      "ProviderAddress": "3701 DADEVILLE ROAD",
+      "ProviderCity": "ALEXANDER CITY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35010,
+      "ProviderPhoneNumber": 2562346366
+    },
+    {
+      "FederalProviderNumber": "15222",
+      "ProviderName": "FAIRHOPE HEALTH & REHAB",
+      "ProviderAddress": "108 SOUTH CHURCH STREET",
+      "ProviderCity": "FAIRHOPE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36532,
+      "ProviderPhoneNumber": 2519282153
+    },
+    {
+      "FederalProviderNumber": "15223",
+      "ProviderName": "NORTHSIDE HEALTH CARE",
+      "ProviderAddress": "700 HUTCHINS AVENUE",
+      "ProviderCity": "GADSDEN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35901,
+      "ProviderPhoneNumber": 2565437101
+    },
+    {
+      "FederalProviderNumber": "15225",
+      "ProviderName": "BARFIELD HEALTH CARE",
+      "ProviderAddress": "22444 HIGHWAY 431",
+      "ProviderCity": "GUNTERSVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35976,
+      "ProviderPhoneNumber": 2565823112
+    },
+    {
+      "FederalProviderNumber": "15227",
+      "ProviderName": "GENERATIONS OF VERNON, LLC",
+      "ProviderAddress": "1050 CONVALESCENT ROAD",
+      "ProviderCity": "VERNON",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35592,
+      "ProviderPhoneNumber": 2056959313
+    },
+    {
+      "FederalProviderNumber": "15228",
+      "ProviderName": "MONTGOMERY HEALTH AND REHAB, LLC",
+      "ProviderAddress": "4490 VIRGINIA LOOP ROAD",
+      "ProviderCity": "MONTGOMERY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36116,
+      "ProviderPhoneNumber": 3342816826
+    },
+    {
+      "FederalProviderNumber": "15303",
+      "ProviderName": "WEST HILL HEALTH AND REHAB",
+      "ProviderAddress": "1028 BESSEMER RD",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35228,
+      "ProviderPhoneNumber": 2059231777
+    },
+    {
+      "FederalProviderNumber": "15315",
+      "ProviderName": "RIDGEWOOD HEALTH SERVICES, INC.",
+      "ProviderAddress": "201 OAKHILL ROAD",
+      "ProviderCity": "JASPER",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35504,
+      "ProviderPhoneNumber": 2052214862
+    },
+    {
+      "FederalProviderNumber": "15320",
+      "ProviderName": "ENTERPRISE HEALTH & REHABILITATION CENTER",
+      "ProviderAddress": "300 PLAZA DRIVE",
+      "ProviderCity": "ENTERPRISE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36331,
+      "ProviderPhoneNumber": 3343479541
+    },
+    {
+      "FederalProviderNumber": "15321",
+      "ProviderName": "SOUTH HAVEN HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "3141 OLD COLUMBIANA ROAD",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35226,
+      "ProviderPhoneNumber": 2058221580
+    },
+    {
+      "FederalProviderNumber": "15322",
+      "ProviderName": "ENGLEWOOD HEALTH CARE CENTER",
+      "ProviderAddress": "2046 SOUTH ALABAMA AVE",
+      "ProviderCity": "MONROEVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36460,
+      "ProviderPhoneNumber": 2515753285
+    },
+    {
+      "FederalProviderNumber": "15326",
+      "ProviderName": "PARK MANOR HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "2201 MCFARLAND BOULEVARD",
+      "ProviderCity": "NORTHPORT",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35476,
+      "ProviderPhoneNumber": 2053395300
+    },
+    {
+      "FederalProviderNumber": "15330",
+      "ProviderName": "MARENGO NURSING HOME",
+      "ProviderAddress": "608 NORTH MAIN STREET",
+      "ProviderCity": "LINDEN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36748,
+      "ProviderPhoneNumber": 3342958631
+    },
+    {
+      "FederalProviderNumber": "15331",
+      "ProviderName": "PHENIX CITY HEALTH CARE, INC",
+      "ProviderAddress": "3900 LAKEWOOD DRIVE",
+      "ProviderCity": "PHENIX CITY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36867,
+      "ProviderPhoneNumber": 3342988247
+    },
+    {
+      "FederalProviderNumber": "15336",
+      "ProviderName": "LUVERNE HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "142 WEST THIRD STREET",
+      "ProviderCity": "LUVERNE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36049,
+      "ProviderPhoneNumber": 3343356528
+    },
+    {
+      "FederalProviderNumber": "15361",
+      "ProviderName": "LAUDERDALE CHRISTIAN NURSING HOME",
+      "ProviderAddress": "2019 COUNTY ROAD 394",
+      "ProviderCity": "KILLEN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35645,
+      "ProviderPhoneNumber": 2567572103
+    },
+    {
+      "FederalProviderNumber": "15369",
+      "ProviderName": "OAKS ON PARKWOOD SKILLED NURSING FACILITY",
+      "ProviderAddress": "2625 LAUREL OAK DRIVE",
+      "ProviderCity": "BESSEMER",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35022,
+      "ProviderPhoneNumber": 2054974520
+    },
+    {
+      "FederalProviderNumber": "15371",
+      "ProviderName": "HERITAGE HEALTH CARE & REHAB INC",
+      "ProviderAddress": "1101 SNOWS MILL AVENUE",
+      "ProviderCity": "TUSCALOOSA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35406,
+      "ProviderPhoneNumber": 2057595179
+    },
+    {
+      "FederalProviderNumber": "15372",
+      "ProviderName": "REGENCY HEALTH CARE AND REHABILITATION CENTER",
+      "ProviderAddress": "2061 POOLE DRIVE, NW",
+      "ProviderCity": "HUNTSVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35810,
+      "ProviderPhoneNumber": 2568529290
+    },
+    {
+      "FederalProviderNumber": "15373",
+      "ProviderName": "HENRY COUNTY HEALTH AND REHABILITATION FACILITY",
+      "ProviderAddress": "212 DOTHAN ROAD",
+      "ProviderCity": "ABBEVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36310,
+      "ProviderPhoneNumber": 3345852241
+    },
+    {
+      "FederalProviderNumber": "15374",
+      "ProviderName": "CAMDEN NURSING FACILITY INC.",
+      "ProviderAddress": "210 PONDEROSA DRIVE",
+      "ProviderCity": "CAMDEN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36726,
+      "ProviderPhoneNumber": 3346824231
+    },
+    {
+      "FederalProviderNumber": "15375",
+      "ProviderName": "ANNISTON HEALTH AND REHAB SERVICES",
+      "ProviderAddress": "600 E 8TH STREET",
+      "ProviderCity": "ANNISTON",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36207,
+      "ProviderPhoneNumber": 2562364949
+    },
+    {
+      "FederalProviderNumber": "15376",
+      "ProviderName": "DIVERSICARE OF WINFIELD",
+      "ProviderAddress": "144 COUNTY HWY 14",
+      "ProviderCity": "WINFIELD",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35594,
+      "ProviderPhoneNumber": 2054874211
+    },
+    {
+      "FederalProviderNumber": "15378",
+      "ProviderName": "MARSHALL MANOR NURSING HOME",
+      "ProviderAddress": "3120 NORTH STREET",
+      "ProviderCity": "GUNTERSVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35976,
+      "ProviderPhoneNumber": 2565826561
+    },
+    {
+      "FederalProviderNumber": "15379",
+      "ProviderName": "MOBILE NURSING AND REHABILITATION CENTER",
+      "ProviderAddress": "7020 BRUNS DRIVE",
+      "ProviderCity": "MOBILE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36695,
+      "ProviderPhoneNumber": 2516391588
+    },
+    {
+      "FederalProviderNumber": "15381",
+      "ProviderName": "WILLOWBROOKE CT SKILLED CARE CTR WESTMINSTER VLG",
+      "ProviderAddress": "500 SPANISH FORT BLVD",
+      "ProviderCity": "SPANISH FORT",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36527,
+      "ProviderPhoneNumber": 2516267007
+    },
+    {
+      "FederalProviderNumber": "15382",
+      "ProviderName": "CANTERBURY HEALTH CARE FACILITY",
+      "ProviderAddress": "1720 KNOWLES ROAD",
+      "ProviderCity": "PHENIX CITY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36869,
+      "ProviderPhoneNumber": 3342910485
+    },
+    {
+      "FederalProviderNumber": "15383",
+      "ProviderName": "WOODLAND VILLAGE REHABILITATION AND HEALTHCARE CEN",
+      "ProviderAddress": "1900 OLIVE STREET",
+      "ProviderCity": "CULLMAN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35055,
+      "ProviderPhoneNumber": 2567391430
+    },
+    {
+      "FederalProviderNumber": "15386",
+      "ProviderName": "ADAMS NURSING HOME",
+      "ProviderAddress": "1555 HILLABEE STREET",
+      "ProviderCity": "ALEXANDER CITY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35010,
+      "ProviderPhoneNumber": 2563290847
+    },
+    {
+      "FederalProviderNumber": "15388",
+      "ProviderName": "EAST GLEN",
+      "ProviderAddress": "53 MEDICAL PARK DRIVE EAST",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35235,
+      "ProviderPhoneNumber": 2058331777
+    },
+    {
+      "FederalProviderNumber": "15390",
+      "ProviderName": "CAPITOL HILL HEALTHCARE CENTER",
+      "ProviderAddress": "520 SOUTH HULL STREET",
+      "ProviderCity": "MONTGOMERY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36104,
+      "ProviderPhoneNumber": 3348342920
+    },
+    {
+      "FederalProviderNumber": "15391",
+      "ProviderName": "JACKSONVILLE HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "410 WILSON DRIVE SOUTHWEST",
+      "ProviderCity": "JACKSONVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36265,
+      "ProviderPhoneNumber": 2564357704
+    },
+    {
+      "FederalProviderNumber": "15392",
+      "ProviderName": "CYPRESS COVE CARE CENTER",
+      "ProviderAddress": "200 ALABAMA AVENUE",
+      "ProviderCity": "MUSCLE SHOALS",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35661,
+      "ProviderPhoneNumber": 2563814330
+    },
+    {
+      "FederalProviderNumber": "15393",
+      "ProviderName": "CROWNE HEALTH CARE OF MONTGOMERY",
+      "ProviderAddress": "1837 UPPER WETUMPKA ROAD",
+      "ProviderCity": "MONTGOMERY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36107,
+      "ProviderPhoneNumber": 3342648416
+    },
+    {
+      "FederalProviderNumber": "15396",
+      "ProviderName": "COLONIAL HAVEN CARE & REHABILITATION CENTER",
+      "ProviderAddress": "616 ARMORY STREET",
+      "ProviderCity": "GREENSBORO",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36744,
+      "ProviderPhoneNumber": 3346243054
+    },
+    {
+      "FederalProviderNumber": "15397",
+      "ProviderName": "WINDSOR HOUSE",
+      "ProviderAddress": "4411 MCALLISTER DRIVE",
+      "ProviderCity": "HUNTSVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35805,
+      "ProviderPhoneNumber": 2568378585
+    },
+    {
+      "FederalProviderNumber": "15398",
+      "ProviderName": "MONROE MANOR HEALTH & REHABILITATION CENTER",
+      "ProviderAddress": "236 WEST CLAIBORNE STREET",
+      "ProviderCity": "MONROEVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36460,
+      "ProviderPhoneNumber": 2515752648
+    },
+    {
+      "FederalProviderNumber": "15400",
+      "ProviderName": "MEADOWVIEW NURSING CENTER",
+      "ProviderAddress": "7300 OLD HIGHWAY 78 EAST",
+      "ProviderCity": "PELL CITY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35128,
+      "ProviderPhoneNumber": 2056405212
+    },
+    {
+      "FederalProviderNumber": "15402",
+      "ProviderName": "EL REPOSO NURSING FACILITY",
+      "ProviderAddress": "260 MILNER CHAPEL ROAD",
+      "ProviderCity": "FLORENCE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35634,
+      "ProviderPhoneNumber": 2567572143
+    },
+    {
+      "FederalProviderNumber": "15403",
+      "ProviderName": "PALM GARDENS HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "3104 DAUPHIN SQUARE CONNECTOR",
+      "ProviderCity": "MOBILE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36607,
+      "ProviderPhoneNumber": 2514502800
+    },
+    {
+      "FederalProviderNumber": "15404",
+      "ProviderName": "BARON HOUSE OF HUEYTOWN",
+      "ProviderAddress": "190 BROOKLANE DRIVE",
+      "ProviderCity": "HUEYTOWN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35023,
+      "ProviderPhoneNumber": 2054912905
+    },
+    {
+      "FederalProviderNumber": "15406",
+      "ProviderName": "GRAND BAY CONVALESCENT HOME, INC.",
+      "ProviderAddress": "13750 HIGHWAY 90 WEST",
+      "ProviderCity": "GRAND BAY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36541,
+      "ProviderPhoneNumber": 2518656443
+    },
+    {
+      "FederalProviderNumber": "15407",
+      "ProviderName": "HEALTH CARE INC",
+      "ProviderAddress": "38286 US HIGHWAY 231",
+      "ProviderCity": "ASHVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35953,
+      "ProviderPhoneNumber": 2055945148
+    },
+    {
+      "FederalProviderNumber": "15408",
+      "ProviderName": "WALKER REHABILITATION CENTER, INC",
+      "ProviderAddress": "350 NORTHEAST 4TH STREET",
+      "ProviderCity": "CARBON HILL",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35549,
+      "ProviderPhoneNumber": 2059244404
+    },
+    {
+      "FederalProviderNumber": "15410",
+      "ProviderName": "EAST ALABAMA MEDICAL CENTER SKILLED NURSING FACILI",
+      "ProviderAddress": "2000 PEPPERELL PARKWAY",
+      "ProviderCity": "OPELIKA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36802,
+      "ProviderPhoneNumber": 3347054181
+    },
+    {
+      "FederalProviderNumber": "15411",
+      "ProviderName": "SHELBY RIDGE NURSING HOME",
+      "ProviderAddress": "881 3RD STREET NORTHEAST",
+      "ProviderCity": "ALABASTER",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35007,
+      "ProviderPhoneNumber": 2056208500
+    },
+    {
+      "FederalProviderNumber": "15413",
+      "ProviderName": "LIGHTHOUSE REHABILITATION & HEALTHCARE CENTER",
+      "ProviderAddress": "2911 EARL GOODWIN PARKWAY",
+      "ProviderCity": "SELMA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36703,
+      "ProviderPhoneNumber": 3348751868
+    },
+    {
+      "FederalProviderNumber": "15414",
+      "ProviderName": "LAFAYETTE NURSING HOME",
+      "ProviderAddress": "555 B STREET SW",
+      "ProviderCity": "LAFAYETTE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36862,
+      "ProviderPhoneNumber": 3348649371
+    },
+    {
+      "FederalProviderNumber": "15415",
+      "ProviderName": "SPRINGHILL MANOR NURSING HOME",
+      "ProviderAddress": "3900 OLD SHELL ROAD",
+      "ProviderCity": "MOBILE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36608,
+      "ProviderPhoneNumber": 2513425623
+    },
+    {
+      "FederalProviderNumber": "15416",
+      "ProviderName": "ANDALUSIA MANOR",
+      "ProviderAddress": "670 MOORE RD",
+      "ProviderCity": "ANDALUSIA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36420,
+      "ProviderPhoneNumber": 3342224544
+    },
+    {
+      "FederalProviderNumber": "15417",
+      "ProviderName": "OAKWOOD-NORTH BALDWIN'S CENTER FOR LIVING",
+      "ProviderAddress": "2010 MEDICAL CENTER DRIVE",
+      "ProviderCity": "BAY MINETTE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36507,
+      "ProviderPhoneNumber": 2519373501
+    },
+    {
+      "FederalProviderNumber": "15419",
+      "ProviderName": "HARTFORD HEALTH CARE",
+      "ProviderAddress": "217 TORO ROAD",
+      "ProviderCity": "HARTFORD",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36344,
+      "ProviderPhoneNumber": 3345883842
+    },
+    {
+      "FederalProviderNumber": "15420",
+      "ProviderName": "CUMBERLAND HEALTH AND REHAB",
+      "ProviderAddress": "47065 AL HIGHWAY 277",
+      "ProviderCity": "BRIDGEPORT",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35740,
+      "ProviderPhoneNumber": 2564377260
+    },
+    {
+      "FederalProviderNumber": "15422",
+      "ProviderName": "TLC NURSING CENTER",
+      "ProviderAddress": "212 ELLEN STREET",
+      "ProviderCity": "ONEONTA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35121,
+      "ProviderPhoneNumber": 2056253520
+    },
+    {
+      "FederalProviderNumber": "15423",
+      "ProviderName": "BROOKDALE UNIVERSITY PARK SNF (AL)",
+      "ProviderAddress": "501 UNIVERSITY PARK DRIVE",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35209,
+      "ProviderPhoneNumber": 2058700786
+    },
+    {
+      "FederalProviderNumber": "15424",
+      "ProviderName": "ROANOKE REHABILITATION & HEALTHCARE CENTER",
+      "ProviderAddress": "680 SEYMOUR DRIVE",
+      "ProviderCity": "ROANOKE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36274,
+      "ProviderPhoneNumber": 3348636151
+    },
+    {
+      "FederalProviderNumber": "15425",
+      "ProviderName": "WESTSIDE TERRACE HEALTH & REHABILITATION CENTER",
+      "ProviderAddress": "501 NORTH WOODBURN DRIVE",
+      "ProviderCity": "DOTHAN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36303,
+      "ProviderPhoneNumber": 3347941000
+    },
+    {
+      "FederalProviderNumber": "15426",
+      "ProviderName": "CROWNE HEALTH CARE OF SPRINGHILL",
+      "ProviderAddress": "3712 DAUPHIN ST",
+      "ProviderCity": "MOBILE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36608,
+      "ProviderPhoneNumber": 2513043013
+    },
+    {
+      "FederalProviderNumber": "15429",
+      "ProviderName": "KENSINGTON HEALTH AND REHABILITATION",
+      "ProviderAddress": "550 CONGRESS STREET",
+      "ProviderCity": "MOBILE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36603,
+      "ProviderPhoneNumber": 2514335471
+    },
+    {
+      "FederalProviderNumber": "15431",
+      "ProviderName": "VALLEY VIEW HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "5968 WALL TRIANA HIGHWAY",
+      "ProviderCity": "MADISON",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35757,
+      "ProviderPhoneNumber": 2568302316
+    },
+    {
+      "FederalProviderNumber": "15433",
+      "ProviderName": "ST MARTIN'S IN THE PINES",
+      "ProviderAddress": "4941 MONTEVALLO ROAD",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35210,
+      "ProviderPhoneNumber": 2059561831
+    },
+    {
+      "FederalProviderNumber": "15434",
+      "ProviderName": "LYNWOOD NURSING HOME",
+      "ProviderAddress": "4164 HALLS MILL ROAD",
+      "ProviderCity": "MOBILE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36693,
+      "ProviderPhoneNumber": 2516615404
+    },
+    {
+      "FederalProviderNumber": "15435",
+      "ProviderName": "SPRINGHILL SENIOR RESIDENCE",
+      "ProviderAddress": "3717 DAUPHIN STREET",
+      "ProviderCity": "MOBILE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36608,
+      "ProviderPhoneNumber": 2513430909
+    },
+    {
+      "FederalProviderNumber": "15436",
+      "ProviderName": "HILLVIEW TERRACE",
+      "ProviderAddress": "100 PERRY HILL RD",
+      "ProviderCity": "MONTGOMERY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36109,
+      "ProviderPhoneNumber": 3342720171
+    },
+    {
+      "FederalProviderNumber": "15437",
+      "ProviderName": "FOLSOM CENTER FOR REHABILITATION AND HEALTHCARE, T",
+      "ProviderAddress": "401 ARNOLD STREET N.E.",
+      "ProviderCity": "CULLMAN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35055,
+      "ProviderPhoneNumber": 2567394409
+    },
+    {
+      "FederalProviderNumber": "15440",
+      "ProviderName": "HUNTSVILLE HEALTH & REHABILITATION, LLC",
+      "ProviderAddress": "4010 CHRIS DRIVE",
+      "ProviderCity": "HUNTSVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35802,
+      "ProviderPhoneNumber": 2568838656
+    },
+    {
+      "FederalProviderNumber": "15442",
+      "ProviderName": "ORCHARD REHABILITATION & HEALTHCARE CENTER",
+      "ProviderAddress": "629 STATE HIGHWAY 21 SOUTH",
+      "ProviderCity": "HAYNEVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36040,
+      "ProviderPhoneNumber": 3345485995
+    },
+    {
+      "FederalProviderNumber": "15443",
+      "ProviderName": "ROBERTSDALE REHABILITATION & HEALTHCARE CTR",
+      "ProviderAddress": "18700 U S HIGHWAY 90",
+      "ProviderCity": "ROBERTSDALE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36567,
+      "ProviderPhoneNumber": 2519471911
+    },
+    {
+      "FederalProviderNumber": "15445",
+      "ProviderName": "CHERRY HILL REHABILITATION & HEALTHCARE CENTER",
+      "ProviderAddress": "1250 JEFF GERMANY PARKWAY",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35214,
+      "ProviderPhoneNumber": 2057960214
+    },
+    {
+      "FederalProviderNumber": "15446",
+      "ProviderName": "GREENBRIAR AT THE ALTAMONT SKILLED NURSING FACILIT",
+      "ProviderAddress": "2831 HIGHLAND AVENUE SOUTH",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35205,
+      "ProviderPhoneNumber": 2053232724
+    },
+    {
+      "FederalProviderNumber": "15447",
+      "ProviderName": "MONTROSE BAY HEALTH AND REHAB",
+      "ProviderAddress": "22670 MAIN STREET",
+      "ProviderCity": "FAIRHOPE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36532,
+      "ProviderPhoneNumber": 2519282177
+    },
+    {
+      "FederalProviderNumber": "15448",
+      "ProviderName": "SOUTH HAMPTON NURSING & REHABILITATION CENTER",
+      "ProviderAddress": "213 WILSON MANN ROAD",
+      "ProviderCity": "OWENS CROSS ROADS",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35763,
+      "ProviderPhoneNumber": 2567253400
+    },
+    {
+      "FederalProviderNumber": "15450",
+      "ProviderName": "WILLOWBROOKE CT SKILLED CARE CTR AT MAGNOLIA TRACE",
+      "ProviderAddress": "ONE CROWN CIRCLE",
+      "ProviderCity": "HUNTSVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35802,
+      "ProviderPhoneNumber": 2562611602
+    },
+    {
+      "FederalProviderNumber": "15451",
+      "ProviderName": "FLORALA HEALTH AND REHABILITATION LLC",
+      "ProviderAddress": "23621 GOLDENROD AVENUE",
+      "ProviderCity": "FLORALA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36442,
+      "ProviderPhoneNumber": 3348588585
+    },
+    {
+      "FederalProviderNumber": "15452",
+      "ProviderName": "OAK PARK",
+      "ProviderAddress": "1365 GATEWOOD DRIVE",
+      "ProviderCity": "AUBURN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36830,
+      "ProviderPhoneNumber": 3348267200
+    },
+    {
+      "FederalProviderNumber": "15453",
+      "ProviderName": "COLUMBIANA HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "22969 HIGHWAY 25",
+      "ProviderCity": "COLUMBIANA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35051,
+      "ProviderPhoneNumber": 2056691712
+    },
+    {
+      "FederalProviderNumber": "15454",
+      "ProviderName": "FAIRVIEW AT REDSTONE VILLAGE",
+      "ProviderAddress": "12000 TURNMEYER DRIVE",
+      "ProviderCity": "HUNTSVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35803,
+      "ProviderPhoneNumber": 2568816717
+    },
+    {
+      "FederalProviderNumber": "15455",
+      "ProviderName": "MOUNT ROYAL TOWERS",
+      "ProviderAddress": "300 ROYAL TOWER DRIVE",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35209,
+      "ProviderPhoneNumber": 2058705666
+    },
+    {
+      "FederalProviderNumber": "15456",
+      "ProviderName": "GULF COAST HEALTH AND REHABILITATION, LLC",
+      "ProviderAddress": "8002 GRELOT ROAD",
+      "ProviderCity": "MOBILE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36695,
+      "ProviderPhoneNumber": 2516348002
+    },
+    {
+      "FederalProviderNumber": "15457",
+      "ProviderName": "KIRKWOOD BY THE RIVER",
+      "ProviderAddress": "3605 RATLIFF ROAD",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35210,
+      "ProviderPhoneNumber": 2059562184
+    },
+    {
+      "FederalProviderNumber": "15458",
+      "ProviderName": "AHC MILLENIUM",
+      "ProviderAddress": "5275 MILLENNIUM DRIVE",
+      "ProviderCity": "HUNTSVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35806,
+      "ProviderPhoneNumber": 2564896800
+    },
+    {
+      "FederalProviderNumber": "15459",
+      "ProviderName": "GALLERIA WOODS SKILLED NURSING FACILITY",
+      "ProviderAddress": "3850 GALLERIA WOODS DRIVE",
+      "ProviderCity": "BIRMINGHAM",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35244,
+      "ProviderPhoneNumber": 2059857537
+    },
+    {
+      "FederalProviderNumber": "15460",
+      "ProviderName": "CHARLTON PLACE REHAB AND HEALTHCARE CENTER",
+      "ProviderAddress": "65 CHARLTON PLACE",
+      "ProviderCity": "DEATSVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36022,
+      "ProviderPhoneNumber": 3342630618
+    },
+    {
+      "FederalProviderNumber": "15461",
+      "ProviderName": "LEGACY HEALTH AND REHABILITATION OF PLEASANT GROVE",
+      "ProviderAddress": "30 7TH STREET",
+      "ProviderCity": "PLEASANT GROVE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35127,
+      "ProviderPhoneNumber": 2057448226
+    },
+    {
+      "FederalProviderNumber": "15463",
+      "ProviderName": "KNOLLWOOD HEALTHCARE",
+      "ProviderAddress": "3151-A KNOLLWOOD DRIVE",
+      "ProviderCity": "MOBILE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36693,
+      "ProviderPhoneNumber": 2516617608
+    },
+    {
+      "FederalProviderNumber": "15464",
+      "ProviderName": "ASPIRE PHYSICAL RECOVERY CENTER AT HOOVER, LLC",
+      "ProviderAddress": "575 SOUTHLAND DRIVE",
+      "ProviderCity": "HOOVER",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35226,
+      "ProviderPhoneNumber": 2057216200
+    },
+    {
+      "FederalProviderNumber": "15465",
+      "ProviderName": "ASPIRE PHYSICAL RECOVERY CENTER OF WEST ALABAMA",
+      "ProviderAddress": "2400 HOSPITAL DRIVE",
+      "ProviderCity": "NORTHPORT",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35476,
+      "ProviderPhoneNumber": 2053308412
+    },
+    {
+      "FederalProviderNumber": "15467",
+      "ProviderName": "TRUSSVILLE HEALTH & REHABILITATION CENTER",
+      "ProviderAddress": "119 WATTERSON PARKWAY",
+      "ProviderCity": "TRUSSVILLE",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35173,
+      "ProviderPhoneNumber": 2056553226
+    },
+    {
+      "FederalProviderNumber": "15468",
+      "ProviderName": "ASPIRE PHYSICAL RECOVERY CENTER AT CAHABA RIVER",
+      "ProviderAddress": "3070 HEALTHY WAY",
+      "ProviderCity": "VESTAVIA",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35243,
+      "ProviderPhoneNumber": 2059777216
+    },
+    {
+      "FederalProviderNumber": "15471",
+      "ProviderName": "SANCTUARY AT THE WOODLANDS",
+      "ProviderAddress": "1910 CHEROKEE  AVENUE SW",
+      "ProviderCity": "CULLMAN",
+      "ProviderState": "AL",
+      "ProviderZipCode": 35055,
+      "ProviderPhoneNumber": 1112223333
+    },
+    {
+      "FederalProviderNumber": "01A193",
+      "ProviderName": "FATHER PURCELL MEMORIAL EXCEPTIONAL CHILDREN'S CTR",
+      "ProviderAddress": "2048 W FAIRVIEW AVE",
+      "ProviderCity": "MONTGOMERY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36108,
+      "ProviderPhoneNumber": 3348345590
+    },
+    {
+      "FederalProviderNumber": "01A208",
+      "ProviderName": "MONTGOMERY CHILDREN'S SPECIALTY CENTER",
+      "ProviderAddress": "2853 FORBES DRIVE",
+      "ProviderCity": "MONTGOMERY",
+      "ProviderState": "AL",
+      "ProviderZipCode": 36110,
+      "ProviderPhoneNumber": 3342613445
+    },
+    {
+      "FederalProviderNumber": "25010",
+      "ProviderName": "KETCHIKAN MED CTR NEW HORIZONS TRANSITIONAL CARE",
+      "ProviderAddress": "3100 TONGASS AVENUE",
+      "ProviderCity": "KETCHIKAN",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99901,
+      "ProviderPhoneNumber": 9072255171
+    },
+    {
+      "FederalProviderNumber": "25015",
+      "ProviderName": "WRANGELL MEDICAL CENTER LTC",
+      "ProviderAddress": "232 WOOD STREET",
+      "ProviderCity": "WRANGELL",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99929,
+      "ProviderPhoneNumber": 9078747000
+    },
+    {
+      "FederalProviderNumber": "25018",
+      "ProviderName": "PROVIDENCE TRANSITIONAL CARE CENTER",
+      "ProviderAddress": "910 COMPASSION CIRCLE",
+      "ProviderCity": "ANCHORAGE",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99504,
+      "ProviderPhoneNumber": 9072129100
+    },
+    {
+      "FederalProviderNumber": "25019",
+      "ProviderName": "PETERSBURG MEDICAL CENTER LTC",
+      "ProviderAddress": "103 FRAM STREET",
+      "ProviderCity": "PETERSBURG",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99833,
+      "ProviderPhoneNumber": 9077724291
+    },
+    {
+      "FederalProviderNumber": "25020",
+      "ProviderName": "DENALI CENTER",
+      "ProviderAddress": "1510 19TH AVENUE",
+      "ProviderCity": "FAIRBANKS",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99701,
+      "ProviderPhoneNumber": 9074585100
+    },
+    {
+      "FederalProviderNumber": "25021",
+      "ProviderName": "HERITAGE PLACE",
+      "ProviderAddress": "232 ROCKWELL AVENUE",
+      "ProviderCity": "SOLDOTNA",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99669,
+      "ProviderPhoneNumber": 9072622545
+    },
+    {
+      "FederalProviderNumber": "25024",
+      "ProviderName": "PROVIDENCE SEWARD MOUNTAIN HAVEN",
+      "ProviderAddress": "2203 OAK STREET",
+      "ProviderCity": "SEWARD",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99664,
+      "ProviderPhoneNumber": 9072245241
+    },
+    {
+      "FederalProviderNumber": "25025",
+      "ProviderName": "PRESTIGE CARE & REHAB CENTER OF ANCHORAGE",
+      "ProviderAddress": "9100 CENTENNIAL DRIVE",
+      "ProviderCity": "ANCHORAGE",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99504,
+      "ProviderPhoneNumber": 9073338100
+    },
+    {
+      "FederalProviderNumber": "25026",
+      "ProviderName": "QUYANNA CARE CENTER",
+      "ProviderAddress": "1100 GREG KRUSCHEK AVENUE",
+      "ProviderCity": "NOME",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99762,
+      "ProviderPhoneNumber": 9074433311
+    },
+    {
+      "FederalProviderNumber": "25027",
+      "ProviderName": "WILDFLOWER COURT",
+      "ProviderAddress": "2000 SALMON CREEK LANE",
+      "ProviderCity": "JUNEAU",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99801,
+      "ProviderPhoneNumber": 9074638700
+    },
+    {
+      "FederalProviderNumber": "25028",
+      "ProviderName": "CORDOVA COMMUNITY MED LTC",
+      "ProviderAddress": "602 CHASE AVE",
+      "ProviderCity": "CORDOVA",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99574,
+      "ProviderPhoneNumber": 9074248000
+    },
+    {
+      "FederalProviderNumber": "25030",
+      "ProviderName": "PROVIDENCE KODIAK ISLAND MED LTC",
+      "ProviderAddress": "1915 E REZANOF DRIVE",
+      "ProviderCity": "KODIAK",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99615,
+      "ProviderPhoneNumber": 9074867800
+    },
+    {
+      "FederalProviderNumber": "25031",
+      "ProviderName": "SOUTH PENINSULA HOSPITAL LTC",
+      "ProviderAddress": "4300 BARTLETT STREET",
+      "ProviderCity": "HOMER",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99603,
+      "ProviderPhoneNumber": 9072350235
+    },
+    {
+      "FederalProviderNumber": "25032",
+      "ProviderName": "SEARHC SITKA LONG TERM CARE",
+      "ProviderAddress": "209 MOLLER AVENUE",
+      "ProviderCity": "SITKA",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99835,
+      "ProviderPhoneNumber": 9077471701
+    },
+    {
+      "FederalProviderNumber": "25034",
+      "ProviderName": "PROVIDENCE VALDEZ MEDICAL CENTER",
+      "ProviderAddress": "911 MEALS AVENUE",
+      "ProviderCity": "VALDEZ",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99686,
+      "ProviderPhoneNumber": 9078341825
+    },
+    {
+      "FederalProviderNumber": "25035",
+      "ProviderName": "UTUQQANAAT INAAT",
+      "ProviderAddress": "436 MISSION STREET",
+      "ProviderCity": "KOTZEBUE",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99752,
+      "ProviderPhoneNumber": 9074423321
+    },
+    {
+      "FederalProviderNumber": "25036",
+      "ProviderName": "PROVIDENCE EXTENDED CARE",
+      "ProviderAddress": "920 COMPASSION CIRCLE",
+      "ProviderCity": "ANCHORAGE",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99504,
+      "ProviderPhoneNumber": 9072129200
+    },
+    {
+      "FederalProviderNumber": "25037",
+      "ProviderName": "YUKON KUSKOKWIM ELDER'S HOME",
+      "ProviderAddress": "1100 CHIEF EDDIE HOFFMAN HWY",
+      "ProviderCity": "BETHEL",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99559,
+      "ProviderPhoneNumber": 9075436782
+    },
+    {
+      "FederalProviderNumber": "25038",
+      "ProviderName": "MAPLE SPRINGS OF WASILLA",
+      "ProviderAddress": "3265 E MERIDIAN LOOP",
+      "ProviderCity": "WASILLA",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99654,
+      "ProviderPhoneNumber": 9078411217
+    },
+    {
+      "FederalProviderNumber": "25039",
+      "ProviderName": "MAPLE SPRINGS OF PALMER",
+      "ProviderAddress": "12130 EAST MAPLE SPRINGS WAY",
+      "ProviderCity": "PALMER",
+      "ProviderState": "AK",
+      "ProviderZipCode": 99645,
+      "ProviderPhoneNumber": 9078026641
+    },
+    {
+      "FederalProviderNumber": "35003",
+      "ProviderName": "THE TERRACES OF PHOENIX",
+      "ProviderAddress": "7550 NORTH 16TH STREET",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85020,
+      "ProviderPhoneNumber": 6029444455
+    },
+    {
+      "FederalProviderNumber": "35004",
+      "ProviderName": "SANTA ROSA CARE CENTER",
+      "ProviderAddress": "1650 NORTH SANTA ROSA AVENUE",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85712,
+      "ProviderPhoneNumber": 5207951610
+    },
+    {
+      "FederalProviderNumber": "35014",
+      "ProviderName": "DESERT TERRACE HEALTHCARE CENTER",
+      "ProviderAddress": "2509 NORTH 24TH STREET",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85008,
+      "ProviderPhoneNumber": 6022731347
+    },
+    {
+      "FederalProviderNumber": "35016",
+      "ProviderName": "HANDMAKER HOME FOR THE AGING",
+      "ProviderAddress": "2221 NORTH ROSEMONT BOULEVARD",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85712,
+      "ProviderPhoneNumber": 5208812323
+    },
+    {
+      "FederalProviderNumber": "35059",
+      "ProviderName": "HAVEN OF SCOTTSDALE",
+      "ProviderAddress": "3293 NORTH DRINKWATER BOULEVARD",
+      "ProviderCity": "SCOTTSDALE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85251,
+      "ProviderPhoneNumber": 4809477443
+    },
+    {
+      "FederalProviderNumber": "35062",
+      "ProviderName": "DESERT HAVEN CARE CENTER",
+      "ProviderAddress": "2645 EAST THOMAS ROAD",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85016,
+      "ProviderPhoneNumber": 6029568000
+    },
+    {
+      "FederalProviderNumber": "35064",
+      "ProviderName": "FOOTHILLS REHABILITATION CENTER",
+      "ProviderAddress": "2250 NORTH CRAYCROFT ROAD",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85712,
+      "ProviderPhoneNumber": 5207338700
+    },
+    {
+      "FederalProviderNumber": "35068",
+      "ProviderName": "PUEBLO SPRINGS REHABILITATION CENTER",
+      "ProviderAddress": "5545 EAST LEE STREET",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85712,
+      "ProviderPhoneNumber": 5202962306
+    },
+    {
+      "FederalProviderNumber": "35070",
+      "ProviderName": "CASAS ADOBES POST ACUTE REHAB CENTER",
+      "ProviderAddress": "1919 WEST MEDICAL STREET",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85704,
+      "ProviderPhoneNumber": 5202978311
+    },
+    {
+      "FederalProviderNumber": "35071",
+      "ProviderName": "MISSION PALMS POST ACUTE",
+      "ProviderAddress": "6461 EAST BAYWOOD AVENUE",
+      "ProviderCity": "MESA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85206,
+      "ProviderPhoneNumber": 4808325160
+    },
+    {
+      "FederalProviderNumber": "35072",
+      "ProviderName": "PHOENIX MOUNTAIN POST ACUTE",
+      "ProviderAddress": "13232 NORTH TATUM BLVD",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85032,
+      "ProviderPhoneNumber": 6029965200
+    },
+    {
+      "FederalProviderNumber": "35073",
+      "ProviderName": "SANTA RITA NURSING & REHABILITATION CENTER",
+      "ProviderAddress": "150 NORTH LA CANADA DRIVE",
+      "ProviderCity": "GREEN VALLEY",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85614,
+      "ProviderPhoneNumber": 5206250178
+    },
+    {
+      "FederalProviderNumber": "35074",
+      "ProviderName": "FRIENDSHIP VILLAGE OF TEMPE",
+      "ProviderAddress": "2525 EAST SOUTHERN AVENUE",
+      "ProviderCity": "TEMPE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85282,
+      "ProviderPhoneNumber": 4808313184
+    },
+    {
+      "FederalProviderNumber": "35076",
+      "ProviderName": "OSBORN HEALTH AND REHABILITATION",
+      "ProviderAddress": "3333 NORTH CIVIC CENTER PLAZA",
+      "ProviderCity": "SCOTTSDALE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85251,
+      "ProviderPhoneNumber": 4809941333
+    },
+    {
+      "FederalProviderNumber": "35083",
+      "ProviderName": "HERITAGE COURT POST ACUTE OF SCOTTSDALE",
+      "ProviderAddress": "3339 NORTH DRINKWATER BOULEVARD",
+      "ProviderCity": "SCOTTSDALE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85251,
+      "ProviderPhoneNumber": 4809495400
+    },
+    {
+      "FederalProviderNumber": "35084",
+      "ProviderName": "PLAZA HEALTHCARE",
+      "ProviderAddress": "1475 NORTH GRANITE REEF ROAD",
+      "ProviderCity": "SCOTTSDALE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85257,
+      "ProviderPhoneNumber": 4809901904
+    },
+    {
+      "FederalProviderNumber": "35085",
+      "ProviderName": "HAVEN OF SAGUARO VALLEY",
+      "ProviderAddress": "6651 EAST CARONDELET DRIVE",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85710,
+      "ProviderPhoneNumber": 5207318500
+    },
+    {
+      "FederalProviderNumber": "35086",
+      "ProviderName": "HAVEN OF SIERRA VISTA, LLC",
+      "ProviderAddress": "660 SOUTH CORONADO DRIVE",
+      "ProviderCity": "SIERRA VISTA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85635,
+      "ProviderPhoneNumber": 5204594900
+    },
+    {
+      "FederalProviderNumber": "35087",
+      "ProviderName": "NORTH MOUNTAIN MEDICAL AND REHABILITATION CENTER",
+      "ProviderAddress": "9155 NORTH THIRD STREET",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85020,
+      "ProviderPhoneNumber": 6029441666
+    },
+    {
+      "FederalProviderNumber": "35088",
+      "ProviderName": "CAMELBACK POST ACUTE CARE AND REHABILITATION",
+      "ProviderAddress": "4635 NORTH 14TH STREET",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85014,
+      "ProviderPhoneNumber": 6022649039
+    },
+    {
+      "FederalProviderNumber": "35091",
+      "ProviderName": "HAVEN OF FLAGSTAFF",
+      "ProviderAddress": "800 WEST UNIVERSITY AVENUE",
+      "ProviderCity": "FLAGSTAFF",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86001,
+      "ProviderPhoneNumber": 9287796931
+    },
+    {
+      "FederalProviderNumber": "35092",
+      "ProviderName": "BELLA VITA HEALTH AND REHABILITATION CENTER",
+      "ProviderAddress": "5125 NORTH 58TH AVENUE",
+      "ProviderCity": "GLENDALE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85301,
+      "ProviderPhoneNumber": 6239315800
+    },
+    {
+      "FederalProviderNumber": "35093",
+      "ProviderName": "HAVEN OF COTTONWOOD",
+      "ProviderAddress": "197 SOUTH WILLARD STREET",
+      "ProviderCity": "COTTONWOOD",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86326,
+      "ProviderPhoneNumber": 9286345548
+    },
+    {
+      "FederalProviderNumber": "35094",
+      "ProviderName": "HAVEN OF SEDONA",
+      "ProviderAddress": "505 JACKS CANYON ROAD",
+      "ProviderCity": "SEDONA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86351,
+      "ProviderPhoneNumber": 9282841000
+    },
+    {
+      "FederalProviderNumber": "35095",
+      "ProviderName": "DESERT COVE NURSING CENTER",
+      "ProviderAddress": "1750 WEST FRYE ROAD",
+      "ProviderCity": "CHANDLER",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85224,
+      "ProviderPhoneNumber": 4808990641
+    },
+    {
+      "FederalProviderNumber": "35096",
+      "ProviderName": "HAVEN OF SANDPOINTE, LLC",
+      "ProviderAddress": "2222 SOUTH AVENUE A",
+      "ProviderCity": "YUMA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85364,
+      "ProviderPhoneNumber": 9287838831
+    },
+    {
+      "FederalProviderNumber": "35097",
+      "ProviderName": "THE LEGACY REHAB & CARE CENTER",
+      "ProviderAddress": "2812 SILVER CREEK ROAD",
+      "ProviderCity": "BULLHEAD CITY",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86442,
+      "ProviderPhoneNumber": 9287631404
+    },
+    {
+      "FederalProviderNumber": "35099",
+      "ProviderName": "SAPPHIRE OF TUCSON NURSING AND REHAB, LLC",
+      "ProviderAddress": "2900 EAST MILBER STREET",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85714,
+      "ProviderPhoneNumber": 5202940005
+    },
+    {
+      "FederalProviderNumber": "35100",
+      "ProviderName": "HAVASU NURSING CENTER",
+      "ProviderAddress": "3576 KEARSAGE DRIVE",
+      "ProviderCity": "LAKE HAVASU CITY",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86406,
+      "ProviderPhoneNumber": 9284531500
+    },
+    {
+      "FederalProviderNumber": "35101",
+      "ProviderName": "CHANDLER POST ACUTE AND REHABILITATION",
+      "ProviderAddress": "2121 WEST ELGIN STREET",
+      "ProviderCity": "CHANDLER",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85224,
+      "ProviderPhoneNumber": 4808996717
+    },
+    {
+      "FederalProviderNumber": "35103",
+      "ProviderName": "CITADEL POST ACUTE",
+      "ProviderAddress": "5121 EAST BROADWAY ROAD",
+      "ProviderCity": "MESA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85206,
+      "ProviderPhoneNumber": 4808325555
+    },
+    {
+      "FederalProviderNumber": "35105",
+      "ProviderName": "SHEA POST ACUTE REHABILITATION CENTER",
+      "ProviderAddress": "11150 NORTH 92ND STREET",
+      "ProviderCity": "SCOTTSDALE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85260,
+      "ProviderPhoneNumber": 4808601766
+    },
+    {
+      "FederalProviderNumber": "35106",
+      "ProviderName": "TEMPE POST ACUTE",
+      "ProviderAddress": "6100 SOUTH RURAL ROAD",
+      "ProviderCity": "TEMPE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85283,
+      "ProviderPhoneNumber": 4808318660
+    },
+    {
+      "FederalProviderNumber": "35107",
+      "ProviderName": "HAVEN OF PHOENIX",
+      "ProviderAddress": "4202 NORTH 20TH AVENUE",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85015,
+      "ProviderPhoneNumber": 6022643824
+    },
+    {
+      "FederalProviderNumber": "35110",
+      "ProviderName": "SUN WEST CHOICE HEALTHCARE & REHAB",
+      "ProviderAddress": "14002 WEST MEEKER BLVD",
+      "ProviderCity": "SUN CITY WEST",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85375,
+      "ProviderPhoneNumber": 6235846161
+    },
+    {
+      "FederalProviderNumber": "35111",
+      "ProviderName": "LAKE PLEASANT POST ACUTE REHABILITATION CENTER",
+      "ProviderAddress": "20625 NORTH LAKE PLEASANT ROAD",
+      "ProviderCity": "PEORIA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85382,
+      "ProviderPhoneNumber": 6235660642
+    },
+    {
+      "FederalProviderNumber": "35112",
+      "ProviderName": "APACHE JUNCTION HLTH CENTER",
+      "ProviderAddress": "2012 WEST SOUTHERN AVE",
+      "ProviderCity": "APACHE JUNCTION",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85120,
+      "ProviderPhoneNumber": 4809830700
+    },
+    {
+      "FederalProviderNumber": "35114",
+      "ProviderName": "MOUNTAIN VIEW MANOR",
+      "ProviderAddress": "1045 SANDRETTO DRIVE",
+      "ProviderCity": "PRESCOTT",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86305,
+      "ProviderPhoneNumber": 9287784837
+    },
+    {
+      "FederalProviderNumber": "35116",
+      "ProviderName": "THE REHABILITATION CENTER AT THE PALAZZO",
+      "ProviderAddress": "6246 NORTH 19TH AVENUE",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85015,
+      "ProviderPhoneNumber": 6024336300
+    },
+    {
+      "FederalProviderNumber": "35117",
+      "ProviderName": "PAYSON CARE CENTER",
+      "ProviderAddress": "107 EAST LONE PINE DRIVE",
+      "ProviderCity": "PAYSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85541,
+      "ProviderPhoneNumber": 9284746896
+    },
+    {
+      "FederalProviderNumber": "35118",
+      "ProviderName": "HAVEN OF CAMP VERDE",
+      "ProviderAddress": "86 WEST SALT MINE ROAD",
+      "ProviderCity": "CAMP VERDE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86322,
+      "ProviderPhoneNumber": 9285675253
+    },
+    {
+      "FederalProviderNumber": "35120",
+      "ProviderName": "MI CASA NURSING CENTER",
+      "ProviderAddress": "330 SOUTH PINNULE CIRCLE",
+      "ProviderCity": "MESA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85206,
+      "ProviderPhoneNumber": 4809810687
+    },
+    {
+      "FederalProviderNumber": "35121",
+      "ProviderName": "BANNER BOSWELL REHABILITATION CENTER",
+      "ProviderAddress": "10601 WEST SANTA FE DRIVE",
+      "ProviderCity": "SUN CITY",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85351,
+      "ProviderPhoneNumber": 6238327000
+    },
+    {
+      "FederalProviderNumber": "35125",
+      "ProviderName": "RIDGECREST HEALTHCARE",
+      "ProviderAddress": "16640 NORTH 38TH STREET",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85032,
+      "ProviderPhoneNumber": 6024826671
+    },
+    {
+      "FederalProviderNumber": "35126",
+      "ProviderName": "LIFE CARE CENTER OF NORTH GLENDALE",
+      "ProviderAddress": "13620 NORTH 55TH AVENUE",
+      "ProviderCity": "GLENDALE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85304,
+      "ProviderPhoneNumber": 6028438433
+    },
+    {
+      "FederalProviderNumber": "35127",
+      "ProviderName": "PRESCOTT NURSING AND REHABILITATION CENTER",
+      "ProviderAddress": "864 DOUGHERTY STREET",
+      "ProviderCity": "PRESCOTT",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86305,
+      "ProviderPhoneNumber": 9287789667
+    },
+    {
+      "FederalProviderNumber": "35130",
+      "ProviderName": "ARCHSTONE CARE CENTER",
+      "ProviderAddress": "1980 WEST PECOS ROAD",
+      "ProviderCity": "CHANDLER",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85224,
+      "ProviderPhoneNumber": 4808211268
+    },
+    {
+      "FederalProviderNumber": "35131",
+      "ProviderName": "GRANITE CREEK HEALTH & REHABILITATION CENTER",
+      "ProviderAddress": "1045 SCOTT DRIVE",
+      "ProviderCity": "PRESCOTT",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86301,
+      "ProviderPhoneNumber": 9287789603
+    },
+    {
+      "FederalProviderNumber": "35132",
+      "ProviderName": "CORONADO HEALTHCARE CENTER",
+      "ProviderAddress": "11411 NORTH 19TH AVE",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85029,
+      "ProviderPhoneNumber": 6022567500
+    },
+    {
+      "FederalProviderNumber": "35133",
+      "ProviderName": "LIFE CARE CENTER OF YUMA",
+      "ProviderAddress": "2450 SOUTH 19TH AVENUE",
+      "ProviderCity": "YUMA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85364,
+      "ProviderPhoneNumber": 9283440425
+    },
+    {
+      "FederalProviderNumber": "35134",
+      "ProviderName": "RIM COUNTRY HEALTH & RETIREMENT COMMUNITY",
+      "ProviderAddress": "807 WEST LONGHORN ROAD",
+      "ProviderCity": "PAYSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85541,
+      "ProviderPhoneNumber": 9284741120
+    },
+    {
+      "FederalProviderNumber": "35135",
+      "ProviderName": "MONTECITO POST ACUTE CARE AND REHABILITATION",
+      "ProviderAddress": "51 SOUTH 48TH STREET",
+      "ProviderCity": "MESA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85206,
+      "ProviderPhoneNumber": 4808328333
+    },
+    {
+      "FederalProviderNumber": "35136",
+      "ProviderName": "LIFE CARE CENTER OF SIERRA VISTA",
+      "ProviderAddress": "2305 EAST WILCOX DRIVE",
+      "ProviderCity": "SIERRA VISTA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85635,
+      "ProviderPhoneNumber": 5204581050
+    },
+    {
+      "FederalProviderNumber": "35137",
+      "ProviderName": "LIFESTREAM AT COOK HEALTH CARE",
+      "ProviderAddress": "11527 WEST PEORIA AVE",
+      "ProviderCity": "YOUNGTOWN",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85363,
+      "ProviderPhoneNumber": 6239334683
+    },
+    {
+      "FederalProviderNumber": "35139",
+      "ProviderName": "HAVEN OF SHOW LOW",
+      "ProviderAddress": "2401 EAST HUNT STREET",
+      "ProviderCity": "SHOW LOW",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85901,
+      "ProviderPhoneNumber": 9285375333
+    },
+    {
+      "FederalProviderNumber": "35140",
+      "ProviderName": "LIFE CARE CENTER OF TUCSON",
+      "ProviderAddress": "6211 NORTH LA CHOLLA BOULEVARD",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85741,
+      "ProviderPhoneNumber": 5205750900
+    },
+    {
+      "FederalProviderNumber": "35141",
+      "ProviderName": "HERITAGE HEALTH CARE CENTER",
+      "ProviderAddress": "1300  SOUTH STREET",
+      "ProviderCity": "GLOBE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85501,
+      "ProviderPhoneNumber": 9284253118
+    },
+    {
+      "FederalProviderNumber": "35143",
+      "ProviderName": "LIFE CARE CENTER OF SCOTTSDALE",
+      "ProviderAddress": "9494 EAST BECKER LANE",
+      "ProviderCity": "SCOTTSDALE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85260,
+      "ProviderPhoneNumber": 4808606396
+    },
+    {
+      "FederalProviderNumber": "35144",
+      "ProviderName": "PEORIA POST ACUTE AND REHABILITATION",
+      "ProviderAddress": "13215 NORTH 94TH DRIVE",
+      "ProviderCity": "PEORIA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85381,
+      "ProviderPhoneNumber": 6239337722
+    },
+    {
+      "FederalProviderNumber": "35145",
+      "ProviderName": "DEVON GABLES REHABILITATION CENTER",
+      "ProviderAddress": "6150 EAST GRANT ROAD",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85712,
+      "ProviderPhoneNumber": 5202966181
+    },
+    {
+      "FederalProviderNumber": "35146",
+      "ProviderName": "LIFE CARE CENTER OF PARADISE VALLEY",
+      "ProviderAddress": "4065 EAST BELL ROAD",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85032,
+      "ProviderPhoneNumber": 6028670212
+    },
+    {
+      "FederalProviderNumber": "35147",
+      "ProviderName": "VILLA MARIA CARE CENTER",
+      "ProviderAddress": "4310 EAST GRANT ROAD",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85712,
+      "ProviderPhoneNumber": 5203239351
+    },
+    {
+      "FederalProviderNumber": "35151",
+      "ProviderName": "SABINO CANYON REHABILITATION & CARE CENTER",
+      "ProviderAddress": "5830 EAST PIMA STREET",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85712,
+      "ProviderPhoneNumber": 5207225515
+    },
+    {
+      "FederalProviderNumber": "35152",
+      "ProviderName": "YUMA NURSING CENTER",
+      "ProviderAddress": "1850 WEST 25TH STREET",
+      "ProviderCity": "YUMA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85364,
+      "ProviderPhoneNumber": 9287266700
+    },
+    {
+      "FederalProviderNumber": "35154",
+      "ProviderName": "PROVIDENCE PLACE AT GLENCROFT",
+      "ProviderAddress": "8641 NORTH 67TH AVE",
+      "ProviderCity": "GLENDALE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85302,
+      "ProviderPhoneNumber": 6239399475
+    },
+    {
+      "FederalProviderNumber": "35158",
+      "ProviderName": "GOOD SAMARITAN SOCIETY-PRESCOTT VILLAGE",
+      "ProviderAddress": "1030 SCOTT DRIVE",
+      "ProviderCity": "PRESCOTT",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86301,
+      "ProviderPhoneNumber": 9287782450
+    },
+    {
+      "FederalProviderNumber": "35159",
+      "ProviderName": "HORIZON POST ACUTE AND REHABILITATION CENTER",
+      "ProviderAddress": "4704 WEST DIANA AVENUE",
+      "ProviderCity": "GLENDALE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85302,
+      "ProviderPhoneNumber": 6232473949
+    },
+    {
+      "FederalProviderNumber": "35164",
+      "ProviderName": "DESERT BLOSSOM HEALTH & REHAB CENTER",
+      "ProviderAddress": "60 SOUTH 58TH STREET",
+      "ProviderCity": "MESA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85206,
+      "ProviderPhoneNumber": 4808323903
+    },
+    {
+      "FederalProviderNumber": "35165",
+      "ProviderName": "HAVEN OF TUCSON",
+      "ProviderAddress": "3705 NORTH SWAN ROAD",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85718,
+      "ProviderPhoneNumber": 5202997088
+    },
+    {
+      "FederalProviderNumber": "35166",
+      "ProviderName": "ESTRELLA CENTER",
+      "ProviderAddress": "350 EAST LA CANADA",
+      "ProviderCity": "AVONDALE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85323,
+      "ProviderPhoneNumber": 6239322282
+    },
+    {
+      "FederalProviderNumber": "35169",
+      "ProviderName": "DESERT HIGHLANDS CARE CENTER",
+      "ProviderAddress": "1081 KATHLEEN AVE",
+      "ProviderCity": "KINGMAN",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86401,
+      "ProviderPhoneNumber": 9287535580
+    },
+    {
+      "FederalProviderNumber": "35171",
+      "ProviderName": "ALTA MESA HEALTH AND REHABILITATION",
+      "ProviderAddress": "5848 EAST UNIVERSITY DRIVE",
+      "ProviderCity": "MESA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85205,
+      "ProviderPhoneNumber": 4809810098
+    },
+    {
+      "FederalProviderNumber": "35172",
+      "ProviderName": "HAVEN OF SAFFORD",
+      "ProviderAddress": "1933 PEPPERTREE DRIVE",
+      "ProviderCity": "SAFFORD",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85546,
+      "ProviderPhoneNumber": 9284284910
+    },
+    {
+      "FederalProviderNumber": "35173",
+      "ProviderName": "CHRISTIAN CARE NURSING CENTER",
+      "ProviderAddress": "11812 NORTH 19TH AVE",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85029,
+      "ProviderPhoneNumber": 6024435412
+    },
+    {
+      "FederalProviderNumber": "35174",
+      "ProviderName": "PARK AVENUE HEALTH AND REHABILITATION CENTER",
+      "ProviderAddress": "2001 NORTH PARK AVENUE",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85719,
+      "ProviderPhoneNumber": 5208826151
+    },
+    {
+      "FederalProviderNumber": "35175",
+      "ProviderName": "MARAVILLA CARE CENTER",
+      "ProviderAddress": "8825 SOUTH 7TH STREET",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85042,
+      "ProviderPhoneNumber": 6022436121
+    },
+    {
+      "FederalProviderNumber": "35176",
+      "ProviderName": "BEATITUDES CAMPUS",
+      "ProviderAddress": "1712 WEST GLENDALE AVENUE",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85021,
+      "ProviderPhoneNumber": 6023358466
+    },
+    {
+      "FederalProviderNumber": "35180",
+      "ProviderName": "HAVEN OF DOUGLAS",
+      "ProviderAddress": "1400 NORTH SAN ANTONIO AVENUE",
+      "ProviderCity": "DOUGLAS",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85607,
+      "ProviderPhoneNumber": 5203647937
+    },
+    {
+      "FederalProviderNumber": "35183",
+      "ProviderName": "RIO VISTA POST ACUTE AND REHABILITATION",
+      "ProviderAddress": "10323 WEST OLIVE AVENUE",
+      "ProviderCity": "PEORIA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85345,
+      "ProviderPhoneNumber": 6238750100
+    },
+    {
+      "FederalProviderNumber": "35189",
+      "ProviderName": "LA CANADA CARE CENTER",
+      "ProviderAddress": "7970 NORTH LA CANADA DRIVE",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85704,
+      "ProviderPhoneNumber": 5207971191
+    },
+    {
+      "FederalProviderNumber": "35190",
+      "ProviderName": "CATALINA POST ACUTE AND REHABILITATION",
+      "ProviderAddress": "2611 NORTH WARREN AVENUE",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85719,
+      "ProviderPhoneNumber": 5207959574
+    },
+    {
+      "FederalProviderNumber": "35193",
+      "ProviderName": "ALLEGIANT HEALTHCARE OF MESA",
+      "ProviderAddress": "3130 EAST BROADWAY ROAD",
+      "ProviderCity": "MESA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85204,
+      "ProviderPhoneNumber": 4809247777
+    },
+    {
+      "FederalProviderNumber": "35196",
+      "ProviderName": "MESA CHRISTIAN HEALTH AND REHABILITATION CENTER",
+      "ProviderAddress": "255 WEST BROWN ROAD",
+      "ProviderCity": "MESA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85201,
+      "ProviderPhoneNumber": 4808333988
+    },
+    {
+      "FederalProviderNumber": "35197",
+      "ProviderName": "HAVEN OF YUMA",
+      "ProviderAddress": "2470 SOUTH ARIZONA AVENUE",
+      "ProviderCity": "YUMA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85364,
+      "ProviderPhoneNumber": 9283448541
+    },
+    {
+      "FederalProviderNumber": "35205",
+      "ProviderName": "SUNCREST HEALTHCARE CENTER",
+      "ProviderAddress": "2211 EAST SOUTHERN AVENUE",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85040,
+      "ProviderPhoneNumber": 6023057134
+    },
+    {
+      "FederalProviderNumber": "35207",
+      "ProviderName": "SPRINGDALE VILLAGE HEALTHCARE",
+      "ProviderAddress": "7255 EAST BROADWAY ROAD",
+      "ProviderCity": "MESA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85208,
+      "ProviderPhoneNumber": 4809818844
+    },
+    {
+      "FederalProviderNumber": "35214",
+      "ProviderName": "GOOD SAMARITAN SOCIETY-QUIBURI MISSION",
+      "ProviderAddress": "850 SOUTH HIGHWAY 80",
+      "ProviderCity": "BENSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85602,
+      "ProviderPhoneNumber": 5205862372
+    },
+    {
+      "FederalProviderNumber": "35216",
+      "ProviderName": "CARING HOUSE",
+      "ProviderAddress": "510 SOUTH OCOTILLO ROAD",
+      "ProviderCity": "SACATON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85147,
+      "ProviderPhoneNumber": 5205627400
+    },
+    {
+      "FederalProviderNumber": "35217",
+      "ProviderName": "SCOTTSDALE VILLAGE SQUARE",
+      "ProviderAddress": "2620 NORTH 68TH STREET",
+      "ProviderCity": "SCOTTSDALE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85257,
+      "ProviderPhoneNumber": 4809466571
+    },
+    {
+      "FederalProviderNumber": "35225",
+      "ProviderName": "SUN CITY HEALTH AND REHABILITATION CENTER",
+      "ProviderAddress": "9940 WEST UNION HILLS DRIVE",
+      "ProviderCity": "SUN CITY",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85373,
+      "ProviderPhoneNumber": 6239330022
+    },
+    {
+      "FederalProviderNumber": "35231",
+      "ProviderName": "SIERRA WINDS",
+      "ProviderAddress": "17300 NORTH 88TH AVE",
+      "ProviderCity": "PEORIA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85382,
+      "ProviderPhoneNumber": 6239720212
+    },
+    {
+      "FederalProviderNumber": "35232",
+      "ProviderName": "MOUNTAIN VIEW CARE CENTER",
+      "ProviderAddress": "1313 WEST MAGEE ROAD",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85704,
+      "ProviderPhoneNumber": 5207972600
+    },
+    {
+      "FederalProviderNumber": "35233",
+      "ProviderName": "HAVEN OF GLOBE",
+      "ProviderAddress": "1100 MONROE STREET",
+      "ProviderCity": "GLOBE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85501,
+      "ProviderPhoneNumber": 9284255721
+    },
+    {
+      "FederalProviderNumber": "35234",
+      "ProviderName": "ARIZONA STATE VETERAN HOME-PHX",
+      "ProviderAddress": "4141 NORTH S HERRERA WAY",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85012,
+      "ProviderPhoneNumber": 6022481550
+    },
+    {
+      "FederalProviderNumber": "35240",
+      "ProviderName": "HAVEN OF LAKE HAVASU",
+      "ProviderAddress": "2781 OSBORNE DRIVE",
+      "ProviderCity": "LAKE HAVASU CITY",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86406,
+      "ProviderPhoneNumber": 9285055552
+    },
+    {
+      "FederalProviderNumber": "35241",
+      "ProviderName": "SOUTH MOUNTAIN POST ACUTE",
+      "ProviderAddress": "8008 S.  JESSE OWENS PARKWAY",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85042,
+      "ProviderPhoneNumber": 6022432780
+    },
+    {
+      "FederalProviderNumber": "35242",
+      "ProviderName": "DR GUY GORMAN SR CARE HOME",
+      "ProviderAddress": "HIGHWAY 191 & HOSPITAL ROAD",
+      "ProviderCity": "CHINLE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86503,
+      "ProviderPhoneNumber": 9286745216
+    },
+    {
+      "FederalProviderNumber": "35243",
+      "ProviderName": "LIFESTREAM AT SUN RIDGE",
+      "ProviderAddress": "12215 WEST BELL ROAD",
+      "ProviderCity": "SURPRISE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85378,
+      "ProviderPhoneNumber": 6235835482
+    },
+    {
+      "FederalProviderNumber": "35244",
+      "ProviderName": "GOOD SAMARITAN SOCIETY-PRESCOTT VALLEY",
+      "ProviderAddress": "3380 NORTH WINDSONG DRIVE",
+      "ProviderCity": "PRESCOTT VALLEY",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86314,
+      "ProviderPhoneNumber": 9287750045
+    },
+    {
+      "FederalProviderNumber": "35245",
+      "ProviderName": "SUNVIEW RESPIRATORY AND REHABILITATION",
+      "ProviderAddress": "12207 NORTH 113TH AVENUE",
+      "ProviderCity": "YOUNGTOWN",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85363,
+      "ProviderPhoneNumber": 6239776532
+    },
+    {
+      "FederalProviderNumber": "35247",
+      "ProviderName": "MARYLAND GARDENS CARE CENTER",
+      "ProviderAddress": "31 WEST MARYLAND AVENUE",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85013,
+      "ProviderPhoneNumber": 6022657484
+    },
+    {
+      "FederalProviderNumber": "35249",
+      "ProviderName": "THE GARDENS REHAB & CARE CENTER",
+      "ProviderAddress": "3131 WESTERN AVENUE",
+      "ProviderCity": "KINGMAN",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86401,
+      "ProviderPhoneNumber": 9287180718
+    },
+    {
+      "FederalProviderNumber": "35250",
+      "ProviderName": "IMMANUEL CAMPUS OF CARE",
+      "ProviderAddress": "11301 NORTH 99TH AVENUE",
+      "ProviderCity": "PEORIA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85345,
+      "ProviderPhoneNumber": 6239778373
+    },
+    {
+      "FederalProviderNumber": "35251",
+      "ProviderName": "NORTH CHANDLER PLACE -  A CONTINUUM OF CARE COMMUN",
+      "ProviderAddress": "2555 NORTH PRICE ROAD",
+      "ProviderCity": "CHANDLER",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85224,
+      "ProviderPhoneNumber": 4803458500
+    },
+    {
+      "FederalProviderNumber": "35253",
+      "ProviderName": "BROOKDALE SANTA CATALINA",
+      "ProviderAddress": "7500 NORTH CALLE SIN ENVIDIA",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85718,
+      "ProviderPhoneNumber": 5207426242
+    },
+    {
+      "FederalProviderNumber": "35254",
+      "ProviderName": "WINSLOW CAMPUS OF CARE",
+      "ProviderAddress": "826 WEST DESMOND STREET",
+      "ProviderCity": "WINSLOW",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86047,
+      "ProviderPhoneNumber": 9282894678
+    },
+    {
+      "FederalProviderNumber": "35255",
+      "ProviderName": "PALM VALLEY REHAB & CARE CTR",
+      "ProviderAddress": "13575 WEST MCDOWELL ROAD",
+      "ProviderCity": "GOODYEAR",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85338,
+      "ProviderPhoneNumber": 6235369911
+    },
+    {
+      "FederalProviderNumber": "35256",
+      "ProviderName": "FREEDOM PLAZA CARE CENTER",
+      "ProviderAddress": "13714 NORTH PLAZA DEL RIO BLVD",
+      "ProviderCity": "PEORIA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85381,
+      "ProviderPhoneNumber": 6238156100
+    },
+    {
+      "FederalProviderNumber": "35257",
+      "ProviderName": "THE PEAKS HEALTH & REHABILITATION",
+      "ProviderAddress": "3150 NORTH WINDING BROOK ROAD",
+      "ProviderCity": "FLAGSTAFF",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86001,
+      "ProviderPhoneNumber": 9287747106
+    },
+    {
+      "FederalProviderNumber": "35260",
+      "ProviderName": "FOUNTAIN VIEW VILLAGE",
+      "ProviderAddress": "16455 EAST AVENUE OF THE FOUNTAINS",
+      "ProviderCity": "FOUNTAIN HILLS",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85268,
+      "ProviderPhoneNumber": 4808364800
+    },
+    {
+      "FederalProviderNumber": "35262",
+      "ProviderName": "THE LINGENFELTER CENTER",
+      "ProviderAddress": "1099 SUNRISE AVENUE",
+      "ProviderCity": "KINGMAN",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 86401,
+      "ProviderPhoneNumber": 9287184852
+    },
+    {
+      "FederalProviderNumber": "35263",
+      "ProviderName": "ARCHIE HENDRICKS SENIOR SKILLED NURSING FACILITY",
+      "ProviderAddress": "FEDERAL ROUTE 15 MILE POST 9",
+      "ProviderCity": "SELLS",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85634,
+      "ProviderPhoneNumber": 5205855500
+    },
+    {
+      "FederalProviderNumber": "35264",
+      "ProviderName": "SUN HEALTH LA LOMA CARE CENTER",
+      "ProviderAddress": "14260 SOUTH DENNY BOULEVARD",
+      "ProviderCity": "LITCHFIELD PARK",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85340,
+      "ProviderPhoneNumber": 6235377400
+    },
+    {
+      "FederalProviderNumber": "35265",
+      "ProviderName": "SUN HEALTH GRANDVIEW CARE CENTER",
+      "ProviderAddress": "14505 WEST GRANITE VALLEY DRIVE",
+      "ProviderCity": "SUN CITY WEST",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85375,
+      "ProviderPhoneNumber": 6239758100
+    },
+    {
+      "FederalProviderNumber": "35266",
+      "ProviderName": "ADVANCED HEALTHCARE OF MESA",
+      "ProviderAddress": "5755 EAST MAIN STREET",
+      "ProviderCity": "MESA",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85205,
+      "ProviderPhoneNumber": 4802142400
+    },
+    {
+      "FederalProviderNumber": "35268",
+      "ProviderName": "ADVANCE HEALTH CARE OF SCOTTSDALE",
+      "ProviderAddress": "9846 NORTH 95TH STREET",
+      "ProviderCity": "SCOTTSDALE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85258,
+      "ProviderPhoneNumber": 4802144200
+    },
+    {
+      "FederalProviderNumber": "35270",
+      "ProviderName": "LA ESTANCIA NURSING AND REHABILITATION CENTER",
+      "ProviderAddress": "15810 SOUTH 42ND STREET",
+      "ProviderCity": "PHOENIX",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85048,
+      "ProviderPhoneNumber": 4807590358
+    },
+    {
+      "FederalProviderNumber": "35272",
+      "ProviderName": "VI AT GRAYHAWK, A VI AND PLAZA COMPANIES COMMUNITY",
+      "ProviderAddress": "7501 EAST THOMPSON PEAK PARKWAY",
+      "ProviderCity": "SCOTTSDALE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85255,
+      "ProviderPhoneNumber": 4803613200
+    },
+    {
+      "FederalProviderNumber": "35273",
+      "ProviderName": "SPLENDIDO AT RANCHO VISTOSO",
+      "ProviderAddress": "13500 NORTH RANCHO VISTOSO BLVD",
+      "ProviderCity": "TUCSON",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85755,
+      "ProviderPhoneNumber": 5208782600
+    },
+    {
+      "FederalProviderNumber": "35275",
+      "ProviderName": "ADVANCED HEALTH CARE OF GLENDALE",
+      "ProviderAddress": "16825 NORTH 63RD AVENUE",
+      "ProviderCity": "GLENDALE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85306,
+      "ProviderPhoneNumber": 6027323400
+    },
+    {
+      "FederalProviderNumber": "35276",
+      "ProviderName": "OASIS PAVILION NURSING & REHABILITATION CENTER",
+      "ProviderAddress": "161 WEST RODEO ROAD SUITE 1",
+      "ProviderCity": "CASA GRANDE",
+      "ProviderState": "AZ",
+      "ProviderZipCode": 85122,
+      "ProviderPhoneNumber": 5208361772
+    }
+   ]
