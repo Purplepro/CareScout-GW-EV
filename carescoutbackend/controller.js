@@ -6,18 +6,16 @@ const express = require('express');
 
 
 let controller = {
-    create(request, response, err) {
-        let provider = request.body
-
-        if(response.status === 200 || 201) {
-            providerModel
-                .create(provider)
-                .then(provider => response.json(provider))
-            console.log('provider info is added', provider)
-
-        } else if(err) {
-            console.log(`error on: ${err}`)
-        }
+    async create(request, response) {
+        console.log(request.body)
+        const pageSize = 15;
+        const page = parseInt(request.body.page || "0");
+        const totalPages = await providerModel.count((request.body))
+            await providerModel
+            .find(request.body)
+            .limit(pageSize).skip(pageSize * page) 
+            .then(provider => response.json({totalPages: Math.ceil(totalPages / pageSize), provider}))
+            console.log('able to read paginated provider data')
     },
 
 
@@ -32,9 +30,10 @@ let controller = {
     },
 
     async readAll(request, response) {
+        console.log(request.query)
         const pageSize = 15;
-        const page = parseInt(request.query.page || "0");
-        const totalPages = await providerModel.countDocuments((request.query))
+        const page = parseInt(request.body.page || "0");
+        const totalPages = await providerModel.count((request.query))
             await providerModel
             .find(request.query)
             .limit(pageSize).skip(pageSize * page) 

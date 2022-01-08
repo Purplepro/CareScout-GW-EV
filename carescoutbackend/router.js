@@ -1,6 +1,6 @@
 let express = require('express');
 let router = new express.Router();
-let providerRouter = require('./providerRouter');
+let providerRouter = require('./searchResults');
 require('serverless-http');
 
 
