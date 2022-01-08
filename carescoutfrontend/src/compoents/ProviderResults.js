@@ -4,7 +4,6 @@ function ProviderResults(props) {
     
     const pages = new Array(props.numberOfPages).fill(null).map((n, i) => i);
 
-    const { ProviderName, ProviderCity, ProviderZipCode } = (props.location && props.location.state) || {};
     return (
         <div>
             <div>
